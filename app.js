@@ -31,9 +31,14 @@ map.on('load', () => {
 });
 
 
+
+
+let moved = false;
+
 map.on('idle', () => {
-    if (map.getLayer('renewals-layer')) {
+    if (!moved && map.getLayer('renewals-layer')) {
         map.moveLayer('renewals-layer');
+        moved = true;
     }
 });
 
