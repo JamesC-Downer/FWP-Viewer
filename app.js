@@ -18,6 +18,17 @@ map.on('load', () => {
     });
 
     
+    const layers = map.getStyle().layers;
+    
+    layers.forEach(layer => {
+        if (
+            layer.type === 'symbol' &&
+            layer.id.toLowerCase().includes('cul')   // catches cul-de-sac layers
+        ) {
+            map.setLayoutProperty(layer.id, 'visibility', 'none');
+        }
+    });
+
     
     map.addLayer({
             id: 'renewals-layer',
