@@ -18,28 +18,17 @@ map.on('load', () => {
     });
 
     
-    map.addLayer({
-        id: 'renewals-layer',
-        type: 'fill',              // ✅ polygons use "fill"
-        source: 'renewals',
     
-        paint: {
-            'fill-color': '#007cbf',
-            'fill-opacity': 0.5
-        }
-    });
+    map.addLayer({
+            id: 'renewals-layer',
+            type: 'fill',
+            source: 'renewals',
+            paint: {
+                'fill-color': '#007cbf',
+                'fill-opacity': 0.6
+            }
+        }, 'road-label'); // ✅ THIS LINE IS KEY
 
-    
-    map.addLayer({
-        id: 'renewals-outline',
-        type: 'line',
-        source: 'renewals',
-    
-        paint: {
-            'line-color': '#004a80',
-            'line-width': 2
-        }
-    });
 
 
 
