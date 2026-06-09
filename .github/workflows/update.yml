@@ -6,6 +6,9 @@ on:
     - cron: "0 14 * * *"  # Runs daily (UTC time) I *think* this means it updates at 2-3am NZT
   workflow_dispatch:      # lets you run it manually
 
+permissions:
+  contents: write
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
