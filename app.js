@@ -30,7 +30,6 @@ map.on('load', () => {
         }); // ✅ THIS LINE IS KEY
     
     map.moveLayer('renewals-layer');
-    map.moveLayer('road-label');
 
 
 });
