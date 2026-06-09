@@ -28,8 +28,9 @@ map.on('load', () => {
                 'fill-opacity': 0.6
             }
         }); // ✅ THIS LINE IS KEY
-
-
+    
+    map.moveLayer('renewals-layer');
+    map.moveLayer('road-label');
 
 
 });
