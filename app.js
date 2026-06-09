@@ -27,12 +27,16 @@ map.on('load', () => {
                 'fill-color': '#007cbf',
                 'fill-opacity': 0.6
             }
-        }); // ✅ THIS LINE IS KEY
-    
-    map.moveLayer('renewals-layer');
-
-
+        });
 });
+
+
+map.on('idle', () => {
+    if (map.getLayer('renewals-layer')) {
+        map.moveLayer('renewals-layer');
+    }
+});
+
 
 // Add nav controls
 map.addControl(new mapboxgl.NavigationControl());
