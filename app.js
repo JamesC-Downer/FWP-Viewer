@@ -8,19 +8,56 @@ const map = new mapboxgl.Map({
     zoom: 12
 });
 
+map.on('load', () => {
+
+    map.addSource('renewals', {
+        type: 'geojson',
+
+        // IMPORTANT: this points to your repo file
+        data: './data/renewals.geojson'
+    });
+
+    
+    map.addLayer({
+        id: 'renewals-layer',
+        type: 'fill',              // ✅ polygons use "fill"
+        source: 'renewals',
+    
+        paint: {
+            'fill-color': '#007cbf',
+            'fill-opacity': 0.5
+        }
+    });
+
+    
+    map.addLayer({
+        id: 'renewals-outline',
+        type: 'line',
+        source: 'renewals',
+    
+        paint: {
+            'line-color': '#004a80',
+            'line-width': 2
+        }
+    });
+
+
+
+});
+
 // Add nav controls
 map.addControl(new mapboxgl.NavigationControl());
 
 // When user clicks a renewal feature
 map.on('click', (e) => {
     const features = map.queryRenderedFeatures(e.point, {
-        layers: ['bridges-ts']
+        layers: ['renewals-layer']
     });
 
     if (!features.length) return;
 
     const f = features[0];
-    const renewalID = f.properties.system_id;
+    const renewalID = f.properties.jv_id;
 
     // Build the Microsoft Form URL with pre-filled values
     const formUrl = `https://forms.office.com/Pages/ResponsePage.aspx?ID=4sZL-u3A7EOdbRRefjahpbdh-kCimPNDuvfbFYBkNKlUNVU3MFRSTlZWUzBXRjIyTUxEQkVVRUs5QS4u` +
