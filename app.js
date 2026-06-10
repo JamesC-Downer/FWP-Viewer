@@ -74,7 +74,7 @@ map.on('click', (e) => {
     if (!features.length) return;
 
     const f = features[0];
-    const renewalID = f.properties.jv_id;
+    const renewalID = f.properties.renewal_id;
 
     // Build the Microsoft Form URL with pre-filled values
     const formUrl = `https://forms.office.com/Pages/ResponsePage.aspx?ID=4sZL-u3A7EOdbRRefjahpbdh-kCimPNDuvfbFYBkNKlUNVU3MFRSTlZWUzBXRjIyTUxEQkVVRUs5QS4u` +
