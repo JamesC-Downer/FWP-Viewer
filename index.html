@@ -4,10 +4,69 @@
     <meta charset="utf-8"/>
     <title>Renewals Review Map</title>
     <script src="https://api.mapbox.com/mapbox-gl-js/v3.0.0/mapbox-gl.js"></script>
-    <link href="https://api.mapbox.com/mapbox-gl-js/v3.0.0/mapbox-gl.css" rel="stylesheet"/>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.0.0/mapbox-gl.css" rel="stylesheet"/> 
+    <style>
+    #legend {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        background: white;
+        padding: 10px;
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    }
+    
+    #legend h3 {
+        margin: 0 0 5px;
+    }
+    
+    #legend div {
+        display: flex;
+        align-items: center;
+    }
+    
+    #legend span {
+        width: 15px;
+        height: 15px;
+        display: inline-block;
+        margin-right: 5px;
+    }
+
+    #filter {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        background: white;
+        padding: 10px;
+        font-family: Arial;
+        font-size: 12px;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    }
+
+    </style>
 </head>
 <body>
     <div id="map" style="height:100vh;"></div>
+    <div id="legend">
+        <h3>Programme Year</h3>
+        <div><span style="background:#fed976"></span> 25/26</div>
+        <div><span style="background:#fd8d3c"></span> 26/27</div>
+        <div><span style="background:#e31a1c"></span> 27/28</div>
+        <div><span style="background:#800026"></span> 28/29</div>
+    </div>
+    
+    <div id="filter">
+        <h3>Filter Years</h3>
+    
+        <label><input type="checkbox" value="25/26" checked> 25/26</label><br>
+        <label><input type="checkbox" value="26/27" checked> 26/27</label><br>
+        <label><input type="checkbox" value="27/28" checked> 27/28</label><br>
+        <label><input type="checkbox" value="28/29" checked> 28/29</label>
+    </div>
+
     <script src="app.js"></script>
 </body>
 </html>
