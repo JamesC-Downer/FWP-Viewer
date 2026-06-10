@@ -84,23 +84,25 @@ map.on('load', () => {
 let moved = false;
 
 map.on('idle', () => {
-    if (!moved && map.getLayer('renewals-layer')) {
-        map.moveLayer('renewals-layer');
-        moved = true;
+
+try {
+        const layers = map.getStyle().layers;
+
+        if (!layers || layers.length === 0) {
+            console.log("No layers found ❌");
+            return;
+        }
+
+        console.log("Layer count:", layers.length);
+
+        layers.forEach(layer => {
+            console.log(layer.id, "|", layer.type);
+        });
+
+    } catch (error) {
+        console.error("Error reading layers:", error);
     }
-    
-    const style = map.getStyle();
 
-    if (!style || !style.layers) {
-        console.log("Style not ready yet");
-        return;
-    }
-
-    console.log("Total layers:", style.layers.length);
-
-    style.layers.forEach(layer => {
-        console.log(layer.id, "|", layer.type);
-    });
 
     
 });
