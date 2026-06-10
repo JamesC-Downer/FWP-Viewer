@@ -66,25 +66,32 @@ map.on('idle', () => {
 map.addControl(new mapboxgl.NavigationControl());
 
 // When user clicks a renewal feature
+
 map.on('click', (e) => {
+
     const features = map.queryRenderedFeatures(e.point, {
         layers: ['renewals-layer']
     });
 
-    if (!features.length) return;
+    console.log(features); // ✅ DEBUG LINE
+
+    if (!features.length) {
+        console.log("No features clicked");
+        return;
+    }
 
     const f = features[0];
+
     const renewalID = f.properties.renewal_id;
-    const road = f.properties.road_id;
+    const road = f.properties.road_name;   // ✅ FIXED (was road_id)
     const programme_year = f.properties.programme_year;
     const treatment = f.properties.treatment;
 
-    // Build the Microsoft Form URL with pre-filled values
     const formUrl = `https://forms.office.com/Pages/ResponsePage.aspx?ID=4sZL-u3A7EOdbRRefjahpbdh-kCimPNDuvfbFYBkNKlUNVU3MFRSTlZWUzBXRjIyTUxEQkVVRUs5QS4u` +
         `&rd3642a3a26d141c6a3bb316c9dfe62ce=${encodeURIComponent(renewalID)}` +
-        `&rbf50a96cf4884b49857a7ba85328cbd6=${e.lngLat.lat}&rd4fae6caa7f0416896a745e1042e1b55=${e.lngLat.lng}`;
+        `&rbf50a96cf4884b49857a7ba85328cbd6=${e.lngLat.lat}` +
+        `&rd4fae6caa7f0416896a745e1042e1b55=${e.lngLat.lng}`;
 
-    // Show a popup
     new mapboxgl.Popup()
         .setLngLat(e.lngLat)
         .setHTML(`
@@ -98,3 +105,4 @@ map.on('click', (e) => {
         `)
         .addTo(map);
 });
+
