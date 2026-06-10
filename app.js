@@ -47,6 +47,32 @@ map.on('load', () => {
                 'fill-opacity': 0.6
             }
         });
+
+        const checkboxes = document.querySelectorAll('#filter input');
+    
+    checkboxes.forEach(cb => {
+        cb.addEventListener('change', updateFilter);
+    });
+    
+    function updateFilter() {
+    
+        const selectedYears = Array.from(checkboxes)
+            .filter(cb => cb.checked)
+            .map(cb => cb.value);
+    
+        if (selectedYears.length === 0) {
+            // Show nothing if nothing selected
+            map.setFilter('renewals-layer', ['==', ['get', 'programme_year'], '']);
+            return;
+        }
+    
+        map.setFilter('renewals-layer', [
+            'in',
+            ['get', 'programme_year'],
+            ['literal', selectedYears]
+        ]);
+    }
+    
 });
 
 
@@ -105,30 +131,6 @@ map.on('click', (e) => {
         `)
         .addTo(map);
 
-    const checkboxes = document.querySelectorAll('#filter input');
-    
-    checkboxes.forEach(cb => {
-        cb.addEventListener('change', updateFilter);
-    });
-    
-    function updateFilter() {
-    
-        const selectedYears = Array.from(checkboxes)
-            .filter(cb => cb.checked)
-            .map(cb => cb.value);
-    
-        if (selectedYears.length === 0) {
-            // Show nothing if nothing selected
-            map.setFilter('renewals-layer', ['==', ['get', 'programme_year'], '']);
-            return;
-        }
-    
-        map.setFilter('renewals-layer', [
-            'in',
-            ['get', 'programme_year'],
-            ['literal', selectedYears]
-        ]);
-    }
 
 });
 
