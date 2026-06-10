@@ -88,11 +88,20 @@ map.on('idle', () => {
         map.moveLayer('renewals-layer');
         moved = true;
     }
-    const layers = map.getStyle().layers;
+    
+    const style = map.getStyle();
 
-    layers.forEach(layer => {
+    if (!style || !style.layers) {
+        console.log("Style not ready yet");
+        return;
+    }
+
+    console.log("Total layers:", style.layers.length);
+
+    style.layers.forEach(layer => {
         console.log(layer.id, "|", layer.type);
     });
+
     
 });
 
