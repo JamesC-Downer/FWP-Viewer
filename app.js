@@ -48,7 +48,7 @@ map.on('load', () => {
             }
         });
 
-        const checkboxes = document.querySelectorAll('#filter input');
+        const checkboxes = document.querySelectorAll('#legend input');
     
     checkboxes.forEach(cb => {
         cb.addEventListener('change', updateFilter);
