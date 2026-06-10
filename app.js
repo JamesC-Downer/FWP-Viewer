@@ -75,6 +75,9 @@ map.on('click', (e) => {
 
     const f = features[0];
     const renewalID = f.properties.renewal_id;
+    const road = f.properties.road_id;
+    const programme_year = f.properties.programme_year;
+    const treatment = f.properties.treatment;
 
     // Build the Microsoft Form URL with pre-filled values
     const formUrl = `https://forms.office.com/Pages/ResponsePage.aspx?ID=4sZL-u3A7EOdbRRefjahpbdh-kCimPNDuvfbFYBkNKlUNVU3MFRSTlZWUzBXRjIyTUxEQkVVRUs5QS4u` +
@@ -86,9 +89,9 @@ map.on('click', (e) => {
         .setLngLat(e.lngLat)
         .setHTML(`
             <strong>Renewal ID:</strong> ${renewalID}<br>
-            <strong>Road:</strong> ${f.properties.road_id}<br>
-            <strong>Planned Year:</strong> ${f.properties.programme_year}<br>
-            <strong>Treatment:</strong> ${f.properties.treatment}<br>
+            <strong>Road:</strong> ${road}<br>
+            <strong>Planned Year:</strong> ${programme_year}<br>
+            <strong>Treatment:</strong> ${treatment}<br>
             <button onclick="window.open('${formUrl}','_blank')">
                 Add Comment
             </button>
