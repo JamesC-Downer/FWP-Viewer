@@ -111,7 +111,7 @@ const footpathtransformed = {
 
         // ✅ Create one feature per populated treatment year
         return Object.keys(footpathyearMap)
-            .filter(key => props[key] && props[key] !== "")
+            .filter(key => footpathprops[key] && footpathprops[key] !== "")
             .map(key => {
                 //const rawTreatment = props[key];
                 return {
@@ -119,8 +119,8 @@ const footpathtransformed = {
 
                     properties: {
                         // ✅ renamed / cleaned fields
-                        renewal_id: props.system_id,
-                        road_name: props.road_id || "Unknown",
+                        renewal_id: footpathprops.system_id,
+                        road_name: footpathprops.road_id || "Unknown",
 
                         //treatment: treatmentMap[rawTreatment] || rawTreatment,
                         programme_year: footpathyearMap[key]
