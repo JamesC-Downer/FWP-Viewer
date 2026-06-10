@@ -74,8 +74,6 @@ const transformed = {
 
 
 // Footpath Data
-const fs = require('fs');
-
 // Node 18+ has built-in fetch
 const url = "https://map-auea.ramm.com/v2/mapping/settingdata/2100/de9ddb3c-7ca3-47c9-9dd4-e0c4ef223b78/?format=geojson&projection=wgs84&forcePoint=false";
 
