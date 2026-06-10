@@ -37,8 +37,8 @@ const transformed = {
 
                     properties: {
                         // ✅ renamed / cleaned fields
-                        renewal_id: props.system_id,
-                        road_name: props.road_name || "Unknown",
+                        renewal_id: props.jv_id,
+                        road_name: props.road_id || "Unknown",
 
                         treatment: props[key],
                         programme_year: yearMap[key]
