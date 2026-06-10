@@ -35,7 +35,15 @@ map.on('load', () => {
             type: 'fill',
             source: 'renewals',
             paint: {
-                'fill-color': '#007cbf',
+            'fill-color': [
+                'match',
+                ['get', 'programme_year'],
+                '25/26', '#1f78b4',
+                '26/27', '#33a02c',
+                '27/28', '#ff7f00',
+                '28/29', '#e31a1c',
+                '#cccccc'
+            ],
                 'fill-opacity': 0.6
             }
         });
