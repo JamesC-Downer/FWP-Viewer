@@ -81,14 +81,14 @@ async function run() {
     console.log("Fetching data...");
 
     const footpathresponse = await fetch(footpathurl);
-    const footpathgeojson = await response.json();
+    const footpathgeojson = await footpathresponse.json();
 
     console.log("Transforming data...");
 
 
 const footpathtransformed = {
     type: "FeatureCollection",
-    features: geojson.features.flatMap(f => {
+    features: footpathgeojson.features.flatMap(f => {
 
         const footpathprops = f.properties;
 
