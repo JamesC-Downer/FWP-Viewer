@@ -73,11 +73,7 @@ map.on('load', () => {
         ]);
     }
 
-    const layers = map.getStyle().layers;
 
-    layers.forEach(layer => {
-        console.log(layer.id, "|", layer.type);
-    });
 
     
 });
@@ -92,6 +88,11 @@ map.on('idle', () => {
         map.moveLayer('renewals-layer');
         moved = true;
     }
+    const layers = map.getStyle().layers;
+
+    layers.forEach(layer => {
+        console.log(layer.id, "|", layer.type);
+    });
     
 });
 
