@@ -140,7 +140,7 @@ map.on('click', (e) => {
         .setHTML(`
             <strong>Renewal ID:</strong> ${renewalID}<br>
             <strong>Road:</strong> ${road}<br>
-            <strong>Planned Year:</strong> ${programme_year}<br>
+            <strong>Programme Year:</strong> ${programme_year}<br>
             <strong>Treatment:</strong> ${treatment}<br>
             <button onclick="window.open('${formUrl}','_blank')">
                 Add Comment
