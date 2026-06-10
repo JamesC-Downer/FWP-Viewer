@@ -10,11 +10,11 @@ const map = new mapboxgl.Map({
 
 map.on('load', () => {
     
-    map.addSource('renewals', {
+    map.addSource('roads', {
         type: 'geojson',
 
         // IMPORTANT: this points to your repo file
-        data: './data/renewals.geojson'
+        data: './data/roads.geojson'
     });
 
     
@@ -31,9 +31,9 @@ map.on('load', () => {
 
     
     map.addLayer({
-            id: 'renewals-layer',
+            id: 'roads-layer',
             type: 'fill',
-            source: 'renewals',
+            source: 'roads',
             paint: {
             'fill-color': [
                 'match',
@@ -62,11 +62,11 @@ map.on('load', () => {
     
         if (selectedYears.length === 0) {
             // Show nothing if nothing selected
-            map.setFilter('renewals-layer', ['==', ['get', 'programme_year'], '']);
+            map.setFilter('roads-layer', ['==', ['get', 'programme_year'], '']);
             return;
         }
     
-        map.setFilter('renewals-layer', [
+        map.setFilter('roads-layer', [
             'in',
             ['get', 'programme_year'],
             ['literal', selectedYears]
@@ -113,7 +113,7 @@ map.addControl(new mapboxgl.NavigationControl());
 map.on('click', (e) => {
 
     const features = map.queryRenderedFeatures(e.point, {
-        layers: ['renewals-layer']
+        layers: ['roads-layer']
     });
 
     console.log(features); // ✅ DEBUG LINE
