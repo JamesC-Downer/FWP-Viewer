@@ -18,6 +18,11 @@ map.on('load', () => {
     });
 
     
+    map.addSource('footpaths', {
+        type: 'geojson',
+        data: './data/footpaths.geojson'
+    });
+
     const layers = map.getStyle().layers;
     
     layers.forEach(layer => {
@@ -47,6 +52,25 @@ map.on('load', () => {
                 'fill-opacity': 0.5
             }
         });
+    
+    map.addLayer({
+        id: 'footpaths-layer',
+        type: 'fill',  // or 'line' depending on geometry
+        source: 'footpaths',
+        paint: {
+            'fill-color': [
+                'match',
+                ['get', 'programme_year'],
+                '26/27', '#9DD197',
+                '27/28', '#53B465',
+                '28/29', '#0C7B36',
+                '29/30', '#063C1C',
+                '#cccccc'
+            ],
+            'fill-opacity': 0.6
+        }
+    });
+
 
         const checkboxes = document.querySelectorAll('#legend input');
     
@@ -113,7 +137,8 @@ map.addControl(new mapboxgl.NavigationControl());
 map.on('click', (e) => {
 
     const features = map.queryRenderedFeatures(e.point, {
-        layers: ['roads-layer']
+        layers: ['roads-layer',
+                'footpaths-layer']
     });
 
     console.log(features); // ✅ DEBUG LINE
