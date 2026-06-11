@@ -1,5 +1,6 @@
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiamFtZXNjYWRvd25lciIsImEiOiJjbW1uejZzbjMwOG1iMnNva3A1dnVsZ3B1In0.PXVr6LEZejBta20KC40iyw';
+let selectionPopup = null;
 
 const map = new mapboxgl.Map({
     container: 'map',
@@ -179,10 +180,18 @@ map.on('click', (e) => {
         `;
     });
 
-    new mapboxgl.Popup()
+    
+    // ✅ Remove previous popup if it exists
+    if (selectionPopup) {
+        selectionPopup.remove();
+    }
+    
+    // ✅ Create and store new popup
+    selectionPopup = new mapboxgl.Popup()
         .setLngLat(e.lngLat)
         .setHTML(html)
         .addTo(map);
+
 
 /*
     const renewalID = f.properties.renewal_id;
@@ -244,6 +253,12 @@ function updateYearFilter() {
 
 
 function selectFeature(index) {
+
+    // ✅ CLOSE the selection popup
+    if (selectionPopup) {
+        selectionPopup.remove();
+        selectionPopup = null;
+    }
 
     const f = window.selectedFeatures[index];
     const e = window.clickLngLat;
