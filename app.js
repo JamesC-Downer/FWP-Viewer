@@ -188,7 +188,7 @@ map.on('click', (e) => {
         const name = f.properties.road_name || assetType;
 
         html += `
-            <button onclick="selectFeature(${index})" style="margin-bottom:5px;">
+            <button onclick="selectFeature(${index}, ${e.lngLat.lng}, ${e.lngLat.lat})" style="margin-bottom:5px;">
                 ${assetType.toUpperCase()} – ${name} (${f.properties.programme_year})
             </button><br>
         `;
@@ -266,7 +266,7 @@ function updateYearFilter() {
 }
 
 
-function selectFeature(index) {
+function selectFeature(index, lng, lat) {
 
     
  // ✅ REMOVE selection popup
@@ -279,6 +279,13 @@ function selectFeature(index) {
     if (detailPopup) {
         detailPopup.remove();
         detailPopup = null;
+    }
+    
+    const lngLat = { lng: lng, lat: lat };
+    
+    if (!lngLat) {
+        console.error("No click location found");
+        return;
     }
 
 
