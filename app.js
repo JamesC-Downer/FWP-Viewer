@@ -268,8 +268,10 @@ function selectFeature(index) {
     const programme_year = f.properties.programme_year;
     const treatment = f.properties.treatment;
 
-    const formUrl = `https://forms.office.com/...` +
-        `&rd3642a3a26d141c6a3bb316c9dfe62ce=${encodeURIComponent(renewalID)}`;
+    const formUrl =  `https://forms.office.com/Pages/ResponsePage.aspx?ID=4sZL-u3A7EOdbRRefjahpbdh-kCimPNDuvfbFYBkNKlUNVU3MFRSTlZWUzBXRjIyTUxEQkVVRUs5QS4u` +
+        `&rd3642a3a26d141c6a3bb316c9dfe62ce=${encodeURIComponent(renewalID)}` +
+        `&rbf50a96cf4884b49857a7ba85328cbd6=${e.lngLat.lat}` +
+        `&rd4fae6caa7f0416896a745e1042e1b55=${e.lngLat.lng}`;
 
     new mapboxgl.Popup()
         .setLngLat(e)
