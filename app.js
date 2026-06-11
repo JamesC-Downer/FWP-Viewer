@@ -185,7 +185,7 @@ map.on('click', (e) => {
     if (selectionPopup) {
         selectionPopup.remove();
     }
-    document.querySelectorAll('.mapboxgl-popup').forEach(p => p.remove());
+    //document.querySelectorAll('.mapboxgl-popup').forEach(p => p.remove());
     // ✅ Create and store new popup
     selectionPopup = new mapboxgl.Popup()
         .setLngLat(e.lngLat)
