@@ -208,7 +208,7 @@ const footpathtransformed = {
         );
     
         console.log("swc data updated!");
-    }
 }
+
 run();
 ``
