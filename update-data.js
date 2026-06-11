@@ -188,7 +188,7 @@ const swctransformed = {
                         renewal_id: swcprops.system_id,
                         road_name: swcprops.road_id || "Unknown",
 
-                        //treatment: treatmentMap[rawTreatment] || rawTreatment,
+                        treatment: rawTreatment,
                         programme_year: swcyearMap[key]
 
                         // 👉 add more renamed fields here if needed
