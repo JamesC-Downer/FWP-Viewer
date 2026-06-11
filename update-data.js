@@ -4,6 +4,7 @@ const fs = require('fs');
 // Node 18+ has built-in fetch
 const url = "https://map-auea.ramm.com/v2/mapping/settingdata/2100/efaaf999-983e-4b1f-85a7-5c1492c80481/?format=geojson&projection=wgs84&forcePoint=false";
 const footpathurl = "https://map-auea.ramm.com/v2/mapping/settingdata/2100/de9ddb3c-7ca3-47c9-9dd4-e0c4ef223b78/?format=geojson&projection=wgs84&forcePoint=false";
+const swcurl = "https://map-auea.ramm.com/v2/mapping/settingdata/2100/807037d8-e60b-48d5-a95c-3fc9f79863fa/?format=geojson&projection=wgs84&forcePoint=false";
 
 async function run() {
     //Roading Data
@@ -118,7 +119,7 @@ const footpathtransformed = {
                         renewal_id: footpathprops.system_id,
                         road_name: footpathprops.road_id || "Unknown",
 
-                        //treatment: treatmentMap[rawTreatment] || rawTreatment,
+                        treatment: rawTreatment,
                         programme_year: footpathyearMap[key]
 
                         // 👉 add more renamed fields here if needed
@@ -139,6 +140,75 @@ const footpathtransformed = {
     );
 
     console.log("Footpath data updated!");
+}
+
+
+//SWC Data
+console.log("Fetching data...");
+
+    const swcresponse = await fetch(swcurl);
+    const swcgeojson = await swcresponse.json();
+
+    console.log("Transforming data...");
+
+
+const swctransformed = {
+    type: "FeatureCollection",
+    features: swcgeojson.features.flatMap(f => {
+
+        const swcprops = f.properties;
+
+        // ✅ Map years to labels
+        const swcyearMap = {
+            treat26: "26/27",
+            treat27: "27/28",
+            treat28: "28/29",
+            treat29: "29/30"
+        };
+        
+        const swctreatmentMap = {
+                    RJVN: "Rejuvenation",
+                    RHAB: "Rehabilitation",
+                    SAC: "Rehabilitation",
+                    AC: "Asphalt",
+                    RS: "Chipseal"
+                };
+
+
+        // ✅ Create one feature per populated treatment year
+        return Object.keys(swcyearMap)
+            .filter(key => swcprops[key] && swcprops[key] !== "")
+            .map(key => {
+                //const rawTreatment = props[key];
+                return {
+                    ...f,
+
+                    properties: {
+                        // ✅ renamed / cleaned fields
+                        renewal_id: swcprops.system_id,
+                        road_name: swcprops.road_id || "Unknown",
+
+                        //treatment: treatmentMap[rawTreatment] || rawTreatment,
+                        programme_year: swcyearMap[key]
+
+                        // 👉 add more renamed fields here if needed
+                    }
+                };
+
+            });
+    })
+};
+
+
+    // Ensure folder exists
+    fs.mkdirSync('data', { recursive: true });
+
+    fs.writeFileSync(
+        'data/swcs.geojson',
+        JSON.stringify(swctransformed, null, 2)
+    );
+
+    console.log("swc data updated!");
 }
 
 run();
