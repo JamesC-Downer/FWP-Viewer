@@ -70,45 +70,6 @@ map.on('load', () => {
             'fill-opacity': 0.6
         }
     });
-
-
-        const checkboxes = document.querySelectorAll('#legend input');
-    
-    checkboxes.forEach(cb => {
-        cb.addEventListener('change', updateFilter);
-    });
-    
-    function updateFilter() {
-    
-        const selectedYears = Array.from(checkboxes)
-            .filter(cb => cb.checked)
-            .map(cb => cb.value);
-    
-        if (selectedYears.length === 0) {
-            // Show nothing if nothing selected
-                const layers = [
-                    'roads-layer',
-                    'footpaths-layer'
-                ];
-                
-                layers.forEach(layer => {
-                    map.setFilter(layer, [
-                        'in',
-                        ['get', 'programme_year'],
-                        ['literal', selectedYears]
-                    ]);
-                });
-
-            return;
-        }
-    
-        map.setFilter('roads-layer', [
-            'in',
-            ['get', 'programme_year'],
-            ['literal', selectedYears]
-        ]);
-    }
-    
     // Adding Control Centre
     document.querySelectorAll('#control-panel input[type="checkbox"]').forEach(cb => {
     
