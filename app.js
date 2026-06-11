@@ -269,6 +269,11 @@ function updateYearFilter() {
 function selectFeature(index, lng, lat) {
 
     
+    const lngLat = {
+        lng: lng,
+        lat: lat
+    };
+
  // ✅ REMOVE selection popup
     if (selectionPopup) {
         selectionPopup.remove();
