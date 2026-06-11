@@ -156,7 +156,7 @@ map.on('click', (e) => {
     if (!features.length) return;
 
     // Filter to only your layers
-    const validLayers = ['roads-layer', 'footpaths-layer', 'kerb-layer'];
+    const validLayers = ['roads-layer', 'footpaths-layer', 'swcs-layer'];
 
     const filtered = features.filter(f => validLayers.includes(f.layer.id));
 
