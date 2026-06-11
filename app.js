@@ -286,7 +286,6 @@ function selectFeature(index, lng, lat) {
         detailPopup = null;
     }
     
-    const lngLat = { lng: lng, lat: lat };
     
     if (!lngLat) {
         console.error("No click location found");
