@@ -20,6 +20,7 @@
       "properties": {
         "renewal_id": 2192,
         "road_name": "DOMINION ROAD",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -71,6 +72,7 @@
       "properties": {
         "renewal_id": 3198,
         "road_name": "WATERLOO STREET EXTENSION",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -202,6 +204,7 @@
       "properties": {
         "renewal_id": 2337,
         "road_name": "GIBSON ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -269,6 +272,7 @@
       "properties": {
         "renewal_id": 2338,
         "road_name": "GIBSON ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -440,6 +444,7 @@
       "properties": {
         "renewal_id": 2339,
         "road_name": "GIBSON ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -499,6 +504,7 @@
       "properties": {
         "renewal_id": 2340,
         "road_name": "GIBSON ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -622,6 +628,7 @@
       "properties": {
         "renewal_id": 2341,
         "road_name": "GIBSON ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -873,6 +880,7 @@
       "properties": {
         "renewal_id": 2342,
         "road_name": "GIBSON ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -924,6 +932,7 @@
       "properties": {
         "renewal_id": 2343,
         "road_name": "GIBSON ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -999,6 +1008,7 @@
       "properties": {
         "renewal_id": 2502,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -1050,6 +1060,7 @@
       "properties": {
         "renewal_id": 2728,
         "road_name": "MANCHESTER PLACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -1125,6 +1136,7 @@
       "properties": {
         "renewal_id": 2729,
         "road_name": "MANCHESTER PLACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -1176,6 +1188,7 @@
       "properties": {
         "renewal_id": 2730,
         "road_name": "MANCHESTER PLACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -1235,6 +1248,7 @@
       "properties": {
         "renewal_id": 2731,
         "road_name": "MANCHESTER PLACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -1286,6 +1300,7 @@
       "properties": {
         "renewal_id": 1861,
         "road_name": "ANZAC PARADE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -1361,6 +1376,7 @@
       "properties": {
         "renewal_id": 2151,
         "road_name": "CUSSEN STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -1492,6 +1508,7 @@
       "properties": {
         "renewal_id": 2152,
         "road_name": "CUSSEN STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -1623,6 +1640,7 @@
       "properties": {
         "renewal_id": 2503,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -1722,6 +1740,7 @@
       "properties": {
         "renewal_id": 2504,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -1861,6 +1880,7 @@
       "properties": {
         "renewal_id": 2505,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -1968,6 +1988,7 @@
       "properties": {
         "renewal_id": 2506,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -2051,6 +2072,7 @@
       "properties": {
         "renewal_id": 2507,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -2254,6 +2276,7 @@
       "properties": {
         "renewal_id": 2508,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -2409,6 +2432,7 @@
       "properties": {
         "renewal_id": 2509,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -2468,6 +2492,7 @@
       "properties": {
         "renewal_id": 2510,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -2567,6 +2592,7 @@
       "properties": {
         "renewal_id": 2511,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -2618,6 +2644,7 @@
       "properties": {
         "renewal_id": 2512,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -2741,6 +2768,7 @@
       "properties": {
         "renewal_id": 2513,
         "road_name": "HOLLAND ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -2856,6 +2884,7 @@
       "properties": {
         "renewal_id": 2680,
         "road_name": "MACFARLANE STREET/EAST",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -2931,6 +2960,7 @@
       "properties": {
         "renewal_id": 2732,
         "road_name": "MARAMA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -2990,6 +3020,7 @@
       "properties": {
         "renewal_id": 1839,
         "road_name": "ABBOTSFORD STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3049,6 +3080,7 @@
       "properties": {
         "renewal_id": 2305,
         "road_name": "FOREST LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -3100,6 +3132,7 @@
       "properties": {
         "renewal_id": 2306,
         "road_name": "FOREST LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -3159,6 +3192,7 @@
       "properties": {
         "renewal_id": 2307,
         "road_name": "FOREST LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -3218,6 +3252,7 @@
       "properties": {
         "renewal_id": 2308,
         "road_name": "FOREST LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -3285,6 +3320,7 @@
       "properties": {
         "renewal_id": 2550,
         "road_name": "JERSEY PLACE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -3360,6 +3396,7 @@
       "properties": {
         "renewal_id": 2551,
         "road_name": "JERSEY PLACE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -3435,6 +3472,7 @@
       "properties": {
         "renewal_id": 2552,
         "road_name": "JOFFRE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3494,6 +3532,7 @@
       "properties": {
         "renewal_id": 2553,
         "road_name": "JOFFRE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3545,6 +3584,7 @@
       "properties": {
         "renewal_id": 2554,
         "road_name": "JOFFRE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3604,6 +3644,7 @@
       "properties": {
         "renewal_id": 2733,
         "road_name": "MARAMA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3663,6 +3704,7 @@
       "properties": {
         "renewal_id": 2734,
         "road_name": "MARAMA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3722,6 +3764,7 @@
       "properties": {
         "renewal_id": 2735,
         "road_name": "MARAMA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3773,6 +3816,7 @@
       "properties": {
         "renewal_id": 2938,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3832,6 +3876,7 @@
       "properties": {
         "renewal_id": 2939,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -3979,6 +4024,7 @@
       "properties": {
         "renewal_id": 2940,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4070,6 +4116,7 @@
       "properties": {
         "renewal_id": 2941,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4121,6 +4168,7 @@
       "properties": {
         "renewal_id": 2942,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4180,6 +4228,7 @@
       "properties": {
         "renewal_id": 2943,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4279,6 +4328,7 @@
       "properties": {
         "renewal_id": 2944,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4330,6 +4380,7 @@
       "properties": {
         "renewal_id": 2945,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4445,6 +4496,7 @@
       "properties": {
         "renewal_id": 2946,
         "road_name": "POHUTUKAWA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4568,6 +4620,7 @@
       "properties": {
         "renewal_id": 2951,
         "road_name": "PRINCES STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -4619,6 +4672,7 @@
       "properties": {
         "renewal_id": 2952,
         "road_name": "PRINCES STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -4670,6 +4724,7 @@
       "properties": {
         "renewal_id": 2953,
         "road_name": "PRINCES STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -4721,6 +4776,7 @@
       "properties": {
         "renewal_id": 2973,
         "road_name": "PYGMALION PLACE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -4772,6 +4828,7 @@
       "properties": {
         "renewal_id": 3133,
         "road_name": "THACKERAY STREET (WEST)",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4863,6 +4920,7 @@
       "properties": {
         "renewal_id": 3134,
         "road_name": "THACKERAY STREET (WEST)",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -4978,6 +5036,7 @@
       "properties": {
         "renewal_id": 3226,
         "road_name": "YORK STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -5029,6 +5088,7 @@
       "properties": {
         "renewal_id": 3227,
         "road_name": "YORK STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -5080,6 +5140,7 @@
       "properties": {
         "renewal_id": 3228,
         "road_name": "YORK STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -5131,6 +5192,7 @@
       "properties": {
         "renewal_id": 3229,
         "road_name": "YORK STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -5190,6 +5252,7 @@
       "properties": {
         "renewal_id": 1890,
         "road_name": "AZIMUTH PLACE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -5425,6 +5488,7 @@
       "properties": {
         "renewal_id": 1891,
         "road_name": "AZIMUTH PLACE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -5660,6 +5724,7 @@
       "properties": {
         "renewal_id": 1909,
         "road_name": "BARTON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -5727,6 +5792,7 @@
       "properties": {
         "renewal_id": 1910,
         "road_name": "BARTON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -5778,6 +5844,7 @@
       "properties": {
         "renewal_id": 1911,
         "road_name": "BARTON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -5837,6 +5904,7 @@
       "properties": {
         "renewal_id": 1948,
         "road_name": "BISHOPS LANE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -5976,6 +6044,7 @@
       "properties": {
         "renewal_id": 2160,
         "road_name": "DALESFORD STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -6027,6 +6096,7 @@
       "properties": {
         "renewal_id": 2161,
         "road_name": "DALESFORD STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -6078,6 +6148,7 @@
       "properties": {
         "renewal_id": 2162,
         "road_name": "DALESFORD STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -6129,6 +6200,7 @@
       "properties": {
         "renewal_id": 2185,
         "road_name": "DINSDALE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -6252,6 +6324,7 @@
       "properties": {
         "renewal_id": 2186,
         "road_name": "DINSDALE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -6367,6 +6440,7 @@
       "properties": {
         "renewal_id": 2187,
         "road_name": "DINSDALE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -6450,6 +6524,7 @@
       "properties": {
         "renewal_id": 2188,
         "road_name": "DINSDALE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -6509,6 +6584,7 @@
       "properties": {
         "renewal_id": 2189,
         "road_name": "DINSDALE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -6576,6 +6652,7 @@
       "properties": {
         "renewal_id": 2536,
         "road_name": "HUKANUI ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -6699,6 +6776,7 @@
       "properties": {
         "renewal_id": 2537,
         "road_name": "HUKANUI ROAD",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -6782,6 +6860,7 @@
       "properties": {
         "renewal_id": 2538,
         "road_name": "HUKANUI ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -6857,6 +6936,7 @@
       "properties": {
         "renewal_id": 2541,
         "road_name": "INSOLL AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -6916,6 +6996,7 @@
       "properties": {
         "renewal_id": 2563,
         "road_name": "KAHIKATEA DRIVE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -6991,6 +7072,7 @@
       "properties": {
         "renewal_id": 2564,
         "road_name": "KAHIKATEA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -7114,6 +7196,7 @@
       "properties": {
         "renewal_id": 2565,
         "road_name": "KAHIKATEA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -7549,6 +7632,7 @@
       "properties": {
         "renewal_id": 2566,
         "road_name": "KAHIKATEA DRIVE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -7656,6 +7740,7 @@
       "properties": {
         "renewal_id": 2575,
         "road_name": "KAHIKATEA DRIVE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -7707,6 +7792,7 @@
       "properties": {
         "renewal_id": 2576,
         "road_name": "KAHIKATEA DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -8142,6 +8228,7 @@
       "properties": {
         "renewal_id": 2598,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8209,6 +8296,7 @@
       "properties": {
         "renewal_id": 2599,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8268,6 +8356,7 @@
       "properties": {
         "renewal_id": 2600,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8319,6 +8408,7 @@
       "properties": {
         "renewal_id": 2601,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8370,6 +8460,7 @@
       "properties": {
         "renewal_id": 2602,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8421,6 +8512,7 @@
       "properties": {
         "renewal_id": 2603,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8480,6 +8572,7 @@
       "properties": {
         "renewal_id": 2604,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8539,6 +8632,7 @@
       "properties": {
         "renewal_id": 2605,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8590,6 +8684,7 @@
       "properties": {
         "renewal_id": 2606,
         "road_name": "KILLARNEY ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8641,6 +8736,7 @@
       "properties": {
         "renewal_id": 2831,
         "road_name": "MOUNT VIEW ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -8740,6 +8836,7 @@
       "properties": {
         "renewal_id": 2969,
         "road_name": "PUUTIKITIKI STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -8791,6 +8888,7 @@
       "properties": {
         "renewal_id": 2970,
         "road_name": "PUUTIKITIKI STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -8842,6 +8940,7 @@
       "properties": {
         "renewal_id": 2971,
         "road_name": "PUUTIKITIKI STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -8893,6 +8992,7 @@
       "properties": {
         "renewal_id": 2974,
         "road_name": "PYGMALION PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -8944,6 +9044,7 @@
       "properties": {
         "renewal_id": 2975,
         "road_name": "PYGMALION PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9067,6 +9168,7 @@
       "properties": {
         "renewal_id": 2976,
         "road_name": "PYGMALION PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9118,6 +9220,7 @@
       "properties": {
         "renewal_id": 2977,
         "road_name": "PYGMALION PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9169,6 +9272,7 @@
       "properties": {
         "renewal_id": 2978,
         "road_name": "PYGMALION PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9300,6 +9404,7 @@
       "properties": {
         "renewal_id": 3113,
         "road_name": "TAMIHANA AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9351,6 +9456,7 @@
       "properties": {
         "renewal_id": 3114,
         "road_name": "TAMIHANA AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9418,6 +9524,7 @@
       "properties": {
         "renewal_id": 3115,
         "road_name": "TAMIHANA AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9581,6 +9688,7 @@
       "properties": {
         "renewal_id": 3116,
         "road_name": "TAMIHANA AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9632,6 +9740,7 @@
       "properties": {
         "renewal_id": 3117,
         "road_name": "TAMIHANA AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9683,6 +9792,7 @@
       "properties": {
         "renewal_id": 3118,
         "road_name": "TAMIHANA AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9814,6 +9924,7 @@
       "properties": {
         "renewal_id": 3119,
         "road_name": "TAMIHANA AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9889,6 +10000,7 @@
       "properties": {
         "renewal_id": 3137,
         "road_name": "TOMIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -9940,6 +10052,7 @@
       "properties": {
         "renewal_id": 3138,
         "road_name": "TOMIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -10023,6 +10136,7 @@
       "properties": {
         "renewal_id": 3139,
         "road_name": "TOMIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -10090,6 +10204,7 @@
       "properties": {
         "renewal_id": 3140,
         "road_name": "TOMIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -10165,6 +10280,7 @@
       "properties": {
         "renewal_id": 3141,
         "road_name": "TOMIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -10224,6 +10340,7 @@
       "properties": {
         "renewal_id": 3142,
         "road_name": "TOMIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -10291,6 +10408,7 @@
       "properties": {
         "renewal_id": 3149,
         "road_name": "TRAMWAY ROAD",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -10350,6 +10468,7 @@
       "properties": {
         "renewal_id": 3150,
         "road_name": "TRAMWAY ROAD",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -10409,6 +10528,7 @@
       "properties": {
         "renewal_id": 3151,
         "road_name": "TRAMWAY ROAD",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -10460,6 +10580,7 @@
       "properties": {
         "renewal_id": 3152,
         "road_name": "TRAMWAY ROAD",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -10511,6 +10632,7 @@
       "properties": {
         "renewal_id": 3158,
         "road_name": "ULSTER STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -10570,6 +10692,7 @@
       "properties": {
         "renewal_id": 3173,
         "road_name": "VICTORIA STREET (SOUTHBOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -10621,6 +10744,7 @@
       "properties": {
         "renewal_id": 3174,
         "road_name": "VICTORIA STREET (SOUTHBOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -10680,6 +10804,7 @@
       "properties": {
         "renewal_id": 3185,
         "road_name": "WARR STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -10731,6 +10856,7 @@
       "properties": {
         "renewal_id": 3232,
         "road_name": "HUKANUI ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -10790,6 +10916,7 @@
       "properties": {
         "renewal_id": 1843,
         "road_name": "ACACIA CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -10881,6 +11008,7 @@
       "properties": {
         "renewal_id": 1844,
         "road_name": "ACACIA CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -11404,6 +11532,7 @@
       "properties": {
         "renewal_id": 1868,
         "road_name": "ASCOT ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -11663,6 +11792,7 @@
       "properties": {
         "renewal_id": 1907,
         "road_name": "BANDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -11714,6 +11844,7 @@
       "properties": {
         "renewal_id": 1908,
         "road_name": "BANKWOOD ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -11933,6 +12064,7 @@
       "properties": {
         "renewal_id": 1921,
         "road_name": "BEAUMONT STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -12016,6 +12148,7 @@
       "properties": {
         "renewal_id": 1922,
         "road_name": "BEAUMONT STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -12107,6 +12240,7 @@
       "properties": {
         "renewal_id": 1923,
         "road_name": "BEAUMONT STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -12238,6 +12372,7 @@
       "properties": {
         "renewal_id": 1924,
         "road_name": "BEAUMONT STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -12297,6 +12432,7 @@
       "properties": {
         "renewal_id": 1949,
         "road_name": "BISHOPS LANE/EAST",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -12404,6 +12540,7 @@
       "properties": {
         "renewal_id": 1950,
         "road_name": "BISHOPS LANE/WEST",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -12519,6 +12656,7 @@
       "properties": {
         "renewal_id": 1960,
         "road_name": "BROOKFIELD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -12594,6 +12732,7 @@
       "properties": {
         "renewal_id": 1961,
         "road_name": "BROOKFIELD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -12645,6 +12784,7 @@
       "properties": {
         "renewal_id": 2008,
         "road_name": "CHARLES CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -12824,6 +12964,7 @@
       "properties": {
         "renewal_id": 2009,
         "road_name": "CHARLES CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -12875,6 +13016,7 @@
       "properties": {
         "renewal_id": 2010,
         "road_name": "CHARLES CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -13054,6 +13196,7 @@
       "properties": {
         "renewal_id": 2011,
         "road_name": "CHARLES CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -13105,6 +13248,7 @@
       "properties": {
         "renewal_id": 2012,
         "road_name": "CHARTWELL CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -13188,6 +13332,7 @@
       "properties": {
         "renewal_id": 2013,
         "road_name": "CHARTWELL CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -13407,6 +13552,7 @@
       "properties": {
         "renewal_id": 2038,
         "road_name": "CLARKIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -13474,6 +13620,7 @@
       "properties": {
         "renewal_id": 2039,
         "road_name": "CLARKIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -13525,6 +13672,7 @@
       "properties": {
         "renewal_id": 2040,
         "road_name": "CLARKIN ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -13592,6 +13740,7 @@
       "properties": {
         "renewal_id": 2058,
         "road_name": "COBHAM DRIVE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -13819,6 +13968,7 @@
       "properties": {
         "renewal_id": 2070,
         "road_name": "COLLINS ROAD",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -13878,6 +14028,7 @@
       "properties": {
         "renewal_id": 2071,
         "road_name": "COLLINS ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -13961,6 +14112,7 @@
       "properties": {
         "renewal_id": 2072,
         "road_name": "COLLINS ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -14028,6 +14180,7 @@
       "properties": {
         "renewal_id": 2073,
         "road_name": "COLLINS ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -14119,6 +14272,7 @@
       "properties": {
         "renewal_id": 2074,
         "road_name": "COLLINS ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -14178,6 +14332,7 @@
       "properties": {
         "renewal_id": 2097,
         "road_name": "CONWAY PLACE",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -14253,6 +14408,7 @@
       "properties": {
         "renewal_id": 2140,
         "road_name": "CULLIMORE STREET",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -14304,6 +14460,7 @@
       "properties": {
         "renewal_id": 2141,
         "road_name": "CULLIMORE STREET",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -14355,6 +14512,7 @@
       "properties": {
         "renewal_id": 2142,
         "road_name": "CULLIMORE STREET",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -14414,6 +14572,7 @@
       "properties": {
         "renewal_id": 2147,
         "road_name": "CULVERDON STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -14505,6 +14664,7 @@
       "properties": {
         "renewal_id": 2148,
         "road_name": "CULVERDON STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -14700,6 +14860,7 @@
       "properties": {
         "renewal_id": 2149,
         "road_name": "CULVERDON STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -14767,6 +14928,7 @@
       "properties": {
         "renewal_id": 2273,
         "road_name": "FARNBOROUGH DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -14850,6 +15012,7 @@
       "properties": {
         "renewal_id": 2274,
         "road_name": "FARNBOROUGH DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -14949,6 +15112,7 @@
       "properties": {
         "renewal_id": 2275,
         "road_name": "FARNBOROUGH DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15024,6 +15188,7 @@
       "properties": {
         "renewal_id": 2276,
         "road_name": "FARNBOROUGH DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15099,6 +15264,7 @@
       "properties": {
         "renewal_id": 2277,
         "road_name": "FARNBOROUGH DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15190,6 +15356,7 @@
       "properties": {
         "renewal_id": 2278,
         "road_name": "FARNBOROUGH DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15257,6 +15424,7 @@
       "properties": {
         "renewal_id": 2279,
         "road_name": "FARNBOROUGH DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15340,6 +15508,7 @@
       "properties": {
         "renewal_id": 2280,
         "road_name": "FARNBOROUGH DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15407,6 +15576,7 @@
       "properties": {
         "renewal_id": 2290,
         "road_name": "FITZROY AVENUE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15618,6 +15788,7 @@
       "properties": {
         "renewal_id": 2291,
         "road_name": "FITZROY AVENUE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15693,6 +15864,7 @@
       "properties": {
         "renewal_id": 2292,
         "road_name": "FITZROY AVENUE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15896,6 +16068,7 @@
       "properties": {
         "renewal_id": 2293,
         "road_name": "FITZROY AVENUE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -15947,6 +16120,7 @@
       "properties": {
         "renewal_id": 2294,
         "road_name": "FITZROY AVENUE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -16014,6 +16188,7 @@
       "properties": {
         "renewal_id": 2378,
         "road_name": "GREY STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -16065,6 +16240,7 @@
       "properties": {
         "renewal_id": 2379,
         "road_name": "GREY STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -16116,6 +16292,7 @@
       "properties": {
         "renewal_id": 2387,
         "road_name": "HALBERG CRESCENT",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -16183,6 +16360,7 @@
       "properties": {
         "renewal_id": 2388,
         "road_name": "HALBERG CRESCENT",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -16322,6 +16500,7 @@
       "properties": {
         "renewal_id": 2389,
         "road_name": "HALBERG CRESCENT",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -16581,6 +16760,7 @@
       "properties": {
         "renewal_id": 2390,
         "road_name": "HALBERG CRESCENT",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -16752,6 +16932,7 @@
       "properties": {
         "renewal_id": 2391,
         "road_name": "HALBERG CRESCENT",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -17011,6 +17192,7 @@
       "properties": {
         "renewal_id": 2410,
         "road_name": "HAMMOND STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -17070,6 +17252,7 @@
       "properties": {
         "renewal_id": 2411,
         "road_name": "HAMMOND STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -17217,6 +17400,7 @@
       "properties": {
         "renewal_id": 2431,
         "road_name": "HAULTAIN STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -17428,6 +17612,7 @@
       "properties": {
         "renewal_id": 2432,
         "road_name": "HAULTAIN STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -17623,6 +17808,7 @@
       "properties": {
         "renewal_id": 2548,
         "road_name": "JENNIFER PLACE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -17794,6 +17980,7 @@
       "properties": {
         "renewal_id": 2549,
         "road_name": "JENNIFER PLACE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -17965,6 +18152,7 @@
       "properties": {
         "renewal_id": 2555,
         "road_name": "JOHNSVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -18160,6 +18348,7 @@
       "properties": {
         "renewal_id": 2556,
         "road_name": "JOHNSVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -18269,6 +18458,7 @@
       "properties": {
         "renewal_id": 2557,
         "road_name": "JOHNSVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -18464,6 +18654,7 @@
       "properties": {
         "renewal_id": 2558,
         "road_name": "JOHNSVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -18547,6 +18738,7 @@
       "properties": {
         "renewal_id": 2559,
         "road_name": "JOHNSVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -18606,6 +18798,7 @@
       "properties": {
         "renewal_id": 2612,
         "road_name": "KOTUKU STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -18657,6 +18850,7 @@
       "properties": {
         "renewal_id": 2613,
         "road_name": "KOTUKU STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -18708,6 +18902,7 @@
       "properties": {
         "renewal_id": 2654,
         "road_name": "LINCOLN STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -18791,6 +18986,7 @@
       "properties": {
         "renewal_id": 2655,
         "road_name": "LISTON CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -19082,6 +19278,7 @@
       "properties": {
         "renewal_id": 2656,
         "road_name": "LISTON CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -19373,6 +19570,7 @@
       "properties": {
         "renewal_id": 2679,
         "road_name": "MACDONALD ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -19496,6 +19694,7 @@
       "properties": {
         "renewal_id": 2748,
         "road_name": "MARNE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -19547,6 +19746,7 @@
       "properties": {
         "renewal_id": 2749,
         "road_name": "MARNE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -19598,6 +19798,7 @@
       "properties": {
         "renewal_id": 2750,
         "road_name": "MARNE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -19649,6 +19850,7 @@
       "properties": {
         "renewal_id": 2751,
         "road_name": "MARNE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -19700,6 +19902,7 @@
       "properties": {
         "renewal_id": 2755,
         "road_name": "MASSEY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -19775,6 +19978,7 @@
       "properties": {
         "renewal_id": 2756,
         "road_name": "MASSEY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -19850,6 +20054,7 @@
       "properties": {
         "renewal_id": 2757,
         "road_name": "MASSEY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -19925,6 +20130,7 @@
       "properties": {
         "renewal_id": 2769,
         "road_name": "MAY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -20264,6 +20470,7 @@
       "properties": {
         "renewal_id": 2770,
         "road_name": "MAY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -20315,6 +20522,7 @@
       "properties": {
         "renewal_id": 2771,
         "road_name": "MAY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -20422,6 +20630,7 @@
       "properties": {
         "renewal_id": 2772,
         "road_name": "MAY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -20761,6 +20970,7 @@
       "properties": {
         "renewal_id": 2773,
         "road_name": "MAY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -20868,6 +21078,7 @@
       "properties": {
         "renewal_id": 2827,
         "road_name": "MORRINSVILLE ROAD (EAST BOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -20927,6 +21138,7 @@
       "properties": {
         "renewal_id": 2828,
         "road_name": "MORROW AVENUE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -20986,6 +21198,7 @@
       "properties": {
         "renewal_id": 2854,
         "road_name": "NEWCASTLE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -21061,6 +21274,7 @@
       "properties": {
         "renewal_id": 2864,
         "road_name": "NORMANDY AVENUE (NORTH BOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -21152,6 +21366,7 @@
       "properties": {
         "renewal_id": 2865,
         "road_name": "NORMANDY AVENUE (NORTH BOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -21211,6 +21426,7 @@
       "properties": {
         "renewal_id": 2878,
         "road_name": "OHAUPO ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -21350,6 +21566,7 @@
       "properties": {
         "renewal_id": 2879,
         "road_name": "OHAUPO ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -21457,6 +21674,7 @@
       "properties": {
         "renewal_id": 2894,
         "road_name": "PARR STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -21508,6 +21726,7 @@
       "properties": {
         "renewal_id": 2895,
         "road_name": "PARR STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -21559,6 +21778,7 @@
       "properties": {
         "renewal_id": 2896,
         "road_name": "PARTINGTON PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -21650,6 +21870,7 @@
       "properties": {
         "renewal_id": 2897,
         "road_name": "PARTINGTON PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -21741,6 +21962,7 @@
       "properties": {
         "renewal_id": 2926,
         "road_name": "PEMBROKE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -21832,6 +22054,7 @@
       "properties": {
         "renewal_id": 2927,
         "road_name": "PEMBROKE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -21899,6 +22122,7 @@
       "properties": {
         "renewal_id": 2928,
         "road_name": "PEMBROKE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -22014,6 +22238,7 @@
       "properties": {
         "renewal_id": 2929,
         "road_name": "PEMBROKE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -22081,6 +22306,7 @@
       "properties": {
         "renewal_id": 2930,
         "road_name": "PEMBROKE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -22140,6 +22366,7 @@
       "properties": {
         "renewal_id": 2931,
         "road_name": "PEMBROKE STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -22215,6 +22442,7 @@
       "properties": {
         "renewal_id": 2934,
         "road_name": "PIAKO ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -22266,6 +22494,7 @@
       "properties": {
         "renewal_id": 2935,
         "road_name": "PIAKO ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -22325,6 +22554,7 @@
       "properties": {
         "renewal_id": 2972,
         "road_name": "PUUTIKITIKI STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -22376,6 +22606,7 @@
       "properties": {
         "renewal_id": 3054,
         "road_name": "SHELLEY COURT",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -22427,6 +22658,7 @@
       "properties": {
         "renewal_id": 3055,
         "road_name": "SHELLEY COURT",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -22478,6 +22710,7 @@
       "properties": {
         "renewal_id": 3069,
         "road_name": "SOMERSET STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -22529,6 +22762,7 @@
       "properties": {
         "renewal_id": 3070,
         "road_name": "SOMERSET STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -22588,6 +22822,7 @@
       "properties": {
         "renewal_id": 3144,
         "road_name": "TRALEE PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -22647,6 +22882,7 @@
       "properties": {
         "renewal_id": 3145,
         "road_name": "TRALEE PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -22770,6 +23006,7 @@
       "properties": {
         "renewal_id": 3146,
         "road_name": "TRALEE PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -22861,6 +23098,7 @@
       "properties": {
         "renewal_id": 3147,
         "road_name": "TRALEE PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -22992,6 +23230,7 @@
       "properties": {
         "renewal_id": 3148,
         "road_name": "TRALEE PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -23075,6 +23314,7 @@
       "properties": {
         "renewal_id": 3155,
         "road_name": "TRISTRAM STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -23134,6 +23374,7 @@
       "properties": {
         "renewal_id": 3156,
         "road_name": "TRISTRAM STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -23185,6 +23426,7 @@
       "properties": {
         "renewal_id": 3196,
         "road_name": "WATERLOO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -23236,6 +23478,7 @@
       "properties": {
         "renewal_id": 3197,
         "road_name": "WATERLOO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -23327,6 +23570,7 @@
       "properties": {
         "renewal_id": 3235,
         "road_name": "TRISTRAM STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -23334,80 +23578,80 @@
           [
             [
               [
-                175.27319750373718,
-                -37.78392919963612
+                175.2732399511229,
+                -37.783898753725275
               ],
               [
-                175.27281213189568,
-                -37.78348992137008
+                175.2728583614069,
+                -37.783463787325495
               ],
               [
-                175.27241280497373,
-                -37.78305491403878
+                175.27245867985735,
+                -37.78302839428326
               ],
               [
-                175.27195669961003,
-                -37.7825578093688
+                175.27200287940303,
+                -37.78253162161825
               ],
               [
-                175.27179220104804,
-                -37.78237155906993
+                175.27183941564098,
+                -37.78234654330536
               ],
               [
-                175.27178034111614,
-                -37.782356739980074
+                175.27182824816907,
+                -37.78233258923689
               ],
               [
-                175.27174680608587,
-                -37.782373645325684
+                175.27179471316103,
+                -37.78234949459549
               ],
               [
-                175.27175915061937,
-                -37.78238907053818
+                175.27180636523502,
+                -37.78236405478622
               ],
               [
-                175.27192437383744,
-                -37.78257614072699
+                175.2719705536536,
+                -37.78254995298846
               ],
               [
-                175.27238069241542,
-                -37.7830734784649
+                175.27242656730544,
+                -37.783046958171546
               ],
               [
-                175.27277977118183,
-                -37.783508215136735
+                175.27282600071618,
+                -37.783482081104204
               ],
               [
-                175.27307721392864,
-                -37.7838472654055
+                175.27311966055316,
+                -37.783816819170056
               ],
               [
-                175.27319750373718,
-                -37.78392919963612
+                175.2732399511229,
+                -37.783898753725275
               ]
             ]
           ],
           [
             [
               [
-                175.27316779057256,
-                -37.783950511489685
+                175.27321023799962,
+                -37.78392006613855
               ],
               [
-                175.27307721392864,
-                -37.7838472654055
+                175.27311966055316,
+                -37.783816819170056
               ],
               [
-                175.272855205827,
-                -37.783696045930384
+                175.2725298055489,
+                -37.78341504161079
               ],
               [
-                175.27308298747647,
-                -37.78389274891462
+                175.27275758544909,
+                -37.783611744739254
               ],
               [
-                175.27316779057256,
-                -37.783950511489685
+                175.27321023799962,
+                -37.78392006613855
               ]
             ]
           ]
@@ -23436,6 +23680,7 @@
       "properties": {
         "renewal_id": 3236,
         "road_name": "NORTHOLT ROAD",
+        "treatment": "Asphaltic Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -23487,6 +23732,7 @@
       "properties": {
         "renewal_id": 3237,
         "road_name": "NORTHOLT ROAD",
+        "treatment": "Asphaltic Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -23602,6 +23848,7 @@
       "properties": {
         "renewal_id": 3238,
         "road_name": "NORTHOLT ROAD",
+        "treatment": "Asphaltic Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -23725,6 +23972,7 @@
       "properties": {
         "renewal_id": 3239,
         "road_name": "NORTHOLT ROAD",
+        "treatment": "Asphaltic Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -23776,6 +24024,7 @@
       "properties": {
         "renewal_id": 3246,
         "road_name": "BOLLARD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -23835,6 +24084,7 @@
       "properties": {
         "renewal_id": 3247,
         "road_name": "BOLLARD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -23894,6 +24144,7 @@
       "properties": {
         "renewal_id": 3263,
         "road_name": "COLLINS ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -23977,6 +24228,7 @@
       "properties": {
         "renewal_id": 3264,
         "road_name": "JOHNSVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -24172,6 +24424,7 @@
       "properties": {
         "renewal_id": 3265,
         "road_name": "JOHNSVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -24367,6 +24620,7 @@
       "properties": {
         "renewal_id": 3266,
         "road_name": "JOHNSVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -24476,6 +24730,7 @@
       "properties": {
         "renewal_id": 1840,
         "road_name": "ABERDEEN DRIVE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -24527,6 +24782,7 @@
       "properties": {
         "renewal_id": 1841,
         "road_name": "ABERDEEN DRIVE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -24602,6 +24858,7 @@
       "properties": {
         "renewal_id": 1842,
         "road_name": "ABERDEEN DRIVE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -24669,6 +24926,7 @@
       "properties": {
         "renewal_id": 1845,
         "road_name": "ALBERT STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -24736,6 +24994,7 @@
       "properties": {
         "renewal_id": 1846,
         "road_name": "ALBERT STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -24803,6 +25062,7 @@
       "properties": {
         "renewal_id": 1847,
         "road_name": "ALEXANDRA STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -24862,6 +25122,7 @@
       "properties": {
         "renewal_id": 1848,
         "road_name": "ALEXANDRA STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -24913,6 +25174,7 @@
       "properties": {
         "renewal_id": 1849,
         "road_name": "ALEXANDRA STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -24972,6 +25234,7 @@
       "properties": {
         "renewal_id": 1850,
         "road_name": "ALEXANDRA STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -25023,6 +25286,7 @@
       "properties": {
         "renewal_id": 1853,
         "road_name": "ALISON STREET",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -25074,6 +25338,7 @@
       "properties": {
         "renewal_id": 1854,
         "road_name": "ALISON STREET",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -25133,6 +25398,7 @@
       "properties": {
         "renewal_id": 1855,
         "road_name": "ALISON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -25184,6 +25450,7 @@
       "properties": {
         "renewal_id": 1856,
         "road_name": "ALISON STREET",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -25243,6 +25510,7 @@
       "properties": {
         "renewal_id": 1857,
         "road_name": "ALISON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -25310,6 +25578,7 @@
       "properties": {
         "renewal_id": 1858,
         "road_name": "AMANDA AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -25361,6 +25630,7 @@
       "properties": {
         "renewal_id": 1860,
         "road_name": "ANNE WAY",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -25420,6 +25690,7 @@
       "properties": {
         "renewal_id": 1892,
         "road_name": "BAFFLES CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -25471,6 +25742,7 @@
       "properties": {
         "renewal_id": 1901,
         "road_name": "BANBURY CRESCENT",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -25538,6 +25810,7 @@
       "properties": {
         "renewal_id": 1916,
         "road_name": "BEATTY STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -25589,6 +25862,7 @@
       "properties": {
         "renewal_id": 1917,
         "road_name": "BEATTY STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -25648,6 +25922,7 @@
       "properties": {
         "renewal_id": 1918,
         "road_name": "BEATTY STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -25723,6 +25998,7 @@
       "properties": {
         "renewal_id": 1919,
         "road_name": "BEATTY STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -25782,6 +26058,7 @@
       "properties": {
         "renewal_id": 1920,
         "road_name": "BEATTY STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -25841,6 +26118,7 @@
       "properties": {
         "renewal_id": 1941,
         "road_name": "BETLEY CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -26028,6 +26306,7 @@
       "properties": {
         "renewal_id": 1942,
         "road_name": "BETLEY CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -26215,6 +26494,7 @@
       "properties": {
         "renewal_id": 1951,
         "road_name": "BLACKBURN STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -26266,6 +26546,7 @@
       "properties": {
         "renewal_id": 1952,
         "road_name": "BLEDISLOE TERRACE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -26581,6 +26862,7 @@
       "properties": {
         "renewal_id": 1953,
         "road_name": "BLEDISLOE TERRACE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -26896,6 +27178,7 @@
       "properties": {
         "renewal_id": 1963,
         "road_name": "BROWN STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -26947,6 +27230,7 @@
       "properties": {
         "renewal_id": 1973,
         "road_name": "CALLARD PLACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -27094,6 +27378,7 @@
       "properties": {
         "renewal_id": 1974,
         "road_name": "CALLARD PLACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -27241,6 +27526,7 @@
       "properties": {
         "renewal_id": 1975,
         "road_name": "CAMBRIDGE RD #283 ACCESSWAY",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -27292,6 +27578,7 @@
       "properties": {
         "renewal_id": 1978,
         "road_name": "CAMBRIDGE ROAD (EAST BOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -27351,6 +27638,7 @@
       "properties": {
         "renewal_id": 1979,
         "road_name": "CAMBRIDGE ROAD (EAST BOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -27434,6 +27722,7 @@
       "properties": {
         "renewal_id": 1980,
         "road_name": "CAMBRIDGE ROAD (EAST BOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -27541,6 +27830,7 @@
       "properties": {
         "renewal_id": 1987,
         "road_name": "CARO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -27592,6 +27882,7 @@
       "properties": {
         "renewal_id": 1988,
         "road_name": "CARO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -27691,6 +27982,7 @@
       "properties": {
         "renewal_id": 1989,
         "road_name": "CARO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -27758,6 +28050,7 @@
       "properties": {
         "renewal_id": 1990,
         "road_name": "CARO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -27841,6 +28134,7 @@
       "properties": {
         "renewal_id": 2006,
         "road_name": "CHAMBERLAIN PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -28270,6 +28564,7 @@
       "properties": {
         "renewal_id": 2007,
         "road_name": "CHAMBERLAIN PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -28345,6 +28640,7 @@
       "properties": {
         "renewal_id": 2014,
         "road_name": "CHELMSFORD STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -28532,6 +28828,7 @@
       "properties": {
         "renewal_id": 2015,
         "road_name": "CHELMSFORD STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -28719,6 +29016,7 @@
       "properties": {
         "renewal_id": 2029,
         "road_name": "CLARENCE STREET (WEST)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -28794,6 +29092,7 @@
       "properties": {
         "renewal_id": 2030,
         "road_name": "CLARENCE STREET (WEST)",
+        "treatment": "Interlocking Blocks",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -28869,6 +29168,7 @@
       "properties": {
         "renewal_id": 2031,
         "road_name": "CLARENCE STREET (WEST)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -28920,6 +29220,7 @@
       "properties": {
         "renewal_id": 2041,
         "road_name": "CLAUDE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -29051,6 +29352,7 @@
       "properties": {
         "renewal_id": 2042,
         "road_name": "CLAUDE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -29190,6 +29492,7 @@
       "properties": {
         "renewal_id": 2046,
         "road_name": "CLEMENTS CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -29289,6 +29592,7 @@
       "properties": {
         "renewal_id": 2047,
         "road_name": "CLEMENTS CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -29364,6 +29668,7 @@
       "properties": {
         "renewal_id": 2049,
         "road_name": "CLYDE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -29439,6 +29744,7 @@
       "properties": {
         "renewal_id": 2050,
         "road_name": "CLYDE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -29506,6 +29812,7 @@
       "properties": {
         "renewal_id": 2051,
         "road_name": "CLYDE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -29565,6 +29872,7 @@
       "properties": {
         "renewal_id": 2052,
         "road_name": "CLYDE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -29664,6 +29972,7 @@
       "properties": {
         "renewal_id": 2053,
         "road_name": "CLYDE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -29731,6 +30040,7 @@
       "properties": {
         "renewal_id": 2054,
         "road_name": "CLYDE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -29782,6 +30092,7 @@
       "properties": {
         "renewal_id": 2055,
         "road_name": "CLYDE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -29841,6 +30152,7 @@
       "properties": {
         "renewal_id": 2056,
         "road_name": "CLYDE STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -29956,6 +30268,7 @@
       "properties": {
         "renewal_id": 2059,
         "road_name": "COBHAM DRIVE (NORTH/WEST BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -30015,6 +30328,7 @@
       "properties": {
         "renewal_id": 2060,
         "road_name": "COBHAM DRIVE (NORTH/WEST BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -30090,6 +30404,7 @@
       "properties": {
         "renewal_id": 2191,
         "road_name": "DISCOVERY DRIVE (NORTH BOUND)",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -30181,6 +30496,7 @@
       "properties": {
         "renewal_id": 2211,
         "road_name": "DRYDEN ROAD",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -30336,6 +30652,7 @@
       "properties": {
         "renewal_id": 2212,
         "road_name": "DRYDEN ROAD",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -30491,6 +30808,7 @@
       "properties": {
         "renewal_id": 2216,
         "road_name": "DUKE STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -30590,6 +30908,7 @@
       "properties": {
         "renewal_id": 2220,
         "road_name": "DYER STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -30649,6 +30968,7 @@
       "properties": {
         "renewal_id": 2221,
         "road_name": "DYER STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -30700,6 +31020,7 @@
       "properties": {
         "renewal_id": 2222,
         "road_name": "DYER STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -30759,6 +31080,7 @@
       "properties": {
         "renewal_id": 2248,
         "road_name": "ENGLISH STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -30906,6 +31228,7 @@
       "properties": {
         "renewal_id": 2249,
         "road_name": "ENGLISH STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -31029,6 +31352,7 @@
       "properties": {
         "renewal_id": 2250,
         "road_name": "ENGLISH STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -31176,6 +31500,7 @@
       "properties": {
         "renewal_id": 2323,
         "road_name": "FUCHSIA AVENUE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -31379,6 +31704,7 @@
       "properties": {
         "renewal_id": 2327,
         "road_name": "GALLOWAY STREET",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -31438,6 +31764,7 @@
       "properties": {
         "renewal_id": 2344,
         "road_name": "GILLIES AVE #25 ACCESSWAY",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -31489,6 +31816,7 @@
       "properties": {
         "renewal_id": 2369,
         "road_name": "GREEN STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -31540,6 +31868,7 @@
       "properties": {
         "renewal_id": 2370,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -31599,6 +31928,7 @@
       "properties": {
         "renewal_id": 2371,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -31698,6 +32028,7 @@
       "properties": {
         "renewal_id": 2372,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -31941,6 +32272,7 @@
       "properties": {
         "renewal_id": 2373,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -32000,6 +32332,7 @@
       "properties": {
         "renewal_id": 2374,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -32107,6 +32440,7 @@
       "properties": {
         "renewal_id": 2375,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -32358,6 +32692,7 @@
       "properties": {
         "renewal_id": 2417,
         "road_name": "HARROWFIELD DRIVE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32409,6 +32744,7 @@
       "properties": {
         "renewal_id": 2418,
         "road_name": "HARROWFIELD DRIVE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32468,6 +32804,7 @@
       "properties": {
         "renewal_id": 2419,
         "road_name": "HARROWFIELD DRIVE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32519,6 +32856,7 @@
       "properties": {
         "renewal_id": 2457,
         "road_name": "HERRICK WAY",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -32570,6 +32908,7 @@
       "properties": {
         "renewal_id": 2461,
         "road_name": "HIGGINS ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32621,6 +32960,7 @@
       "properties": {
         "renewal_id": 2462,
         "road_name": "HIGGINS ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32680,6 +33020,7 @@
       "properties": {
         "renewal_id": 2463,
         "road_name": "HIGGINS ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32731,6 +33072,7 @@
       "properties": {
         "renewal_id": 2464,
         "road_name": "HIGGINS ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32790,6 +33132,7 @@
       "properties": {
         "renewal_id": 2465,
         "road_name": "HIGGINS ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32841,6 +33184,7 @@
       "properties": {
         "renewal_id": 2466,
         "road_name": "HIGGINS ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32908,6 +33252,7 @@
       "properties": {
         "renewal_id": 2467,
         "road_name": "HIGGINS ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -32959,6 +33304,7 @@
       "properties": {
         "renewal_id": 2468,
         "road_name": "HIGGINS ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -33066,6 +33412,7 @@
       "properties": {
         "renewal_id": 2469,
         "road_name": "HIGH STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -33133,6 +33480,7 @@
       "properties": {
         "renewal_id": 2471,
         "road_name": "HILL STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33224,6 +33572,7 @@
       "properties": {
         "renewal_id": 2501,
         "road_name": "ANNE WAY",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -33283,6 +33632,7 @@
       "properties": {
         "renewal_id": 2544,
         "road_name": "JAMES STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -33342,6 +33692,7 @@
       "properties": {
         "renewal_id": 2545,
         "road_name": "JAMES STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -33401,6 +33752,7 @@
       "properties": {
         "renewal_id": 2577,
         "road_name": "KAKA STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33460,6 +33812,7 @@
       "properties": {
         "renewal_id": 2578,
         "road_name": "KAKA STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33511,6 +33864,7 @@
       "properties": {
         "renewal_id": 2579,
         "road_name": "KAKA STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33570,6 +33924,7 @@
       "properties": {
         "renewal_id": 2580,
         "road_name": "KAKA STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33621,6 +33976,7 @@
       "properties": {
         "renewal_id": 2581,
         "road_name": "KAKA STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33672,6 +34028,7 @@
       "properties": {
         "renewal_id": 2587,
         "road_name": "KENNEY CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33763,6 +34120,7 @@
       "properties": {
         "renewal_id": 2588,
         "road_name": "KENNEY CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33870,6 +34228,7 @@
       "properties": {
         "renewal_id": 2589,
         "road_name": "KENNEY CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -33985,6 +34344,7 @@
       "properties": {
         "renewal_id": 2621,
         "road_name": "LAKE CRESCENT",
+        "treatment": "Interlocking blocks",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34052,6 +34412,7 @@
       "properties": {
         "renewal_id": 2622,
         "road_name": "LAKE CRESCENT",
+        "treatment": "Interlocking blocks",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34103,6 +34464,7 @@
       "properties": {
         "renewal_id": 2623,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34234,6 +34596,7 @@
       "properties": {
         "renewal_id": 2624,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34365,6 +34728,7 @@
       "properties": {
         "renewal_id": 2625,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34472,6 +34836,7 @@
       "properties": {
         "renewal_id": 2626,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34539,6 +34904,7 @@
       "properties": {
         "renewal_id": 2627,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34598,6 +34964,7 @@
       "properties": {
         "renewal_id": 2628,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34793,6 +35160,7 @@
       "properties": {
         "renewal_id": 2629,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34860,6 +35228,7 @@
       "properties": {
         "renewal_id": 2630,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -34919,6 +35288,7 @@
       "properties": {
         "renewal_id": 2631,
         "road_name": "LAKE CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -35002,6 +35372,7 @@
       "properties": {
         "renewal_id": 2669,
         "road_name": "LONDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -35133,6 +35504,7 @@
       "properties": {
         "renewal_id": 2670,
         "road_name": "LONDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -35224,6 +35596,7 @@
       "properties": {
         "renewal_id": 2671,
         "road_name": "LONDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -35291,6 +35664,7 @@
       "properties": {
         "renewal_id": 2672,
         "road_name": "LONDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -35358,6 +35732,7 @@
       "properties": {
         "renewal_id": 2673,
         "road_name": "LONDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -35433,6 +35808,7 @@
       "properties": {
         "renewal_id": 2674,
         "road_name": "LONDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -35484,6 +35860,7 @@
       "properties": {
         "renewal_id": 2675,
         "road_name": "LONDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -35551,6 +35928,7 @@
       "properties": {
         "renewal_id": 2676,
         "road_name": "LONDON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -35626,6 +36004,7 @@
       "properties": {
         "renewal_id": 2681,
         "road_name": "MACFARLANE STREET/WEST",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -35725,6 +36104,7 @@
       "properties": {
         "renewal_id": 2685,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -35816,6 +36196,7 @@
       "properties": {
         "renewal_id": 2686,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -35875,6 +36256,7 @@
       "properties": {
         "renewal_id": 2687,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -35934,6 +36316,7 @@
       "properties": {
         "renewal_id": 2688,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -35993,6 +36376,7 @@
       "properties": {
         "renewal_id": 2689,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36116,6 +36500,7 @@
       "properties": {
         "renewal_id": 2690,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36223,6 +36608,7 @@
       "properties": {
         "renewal_id": 2691,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36338,6 +36724,7 @@
       "properties": {
         "renewal_id": 2692,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36405,6 +36792,7 @@
       "properties": {
         "renewal_id": 2693,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36464,6 +36852,7 @@
       "properties": {
         "renewal_id": 2694,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36539,6 +36928,7 @@
       "properties": {
         "renewal_id": 2695,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36598,6 +36988,7 @@
       "properties": {
         "renewal_id": 2696,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36649,6 +37040,7 @@
       "properties": {
         "renewal_id": 2697,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36708,6 +37100,7 @@
       "properties": {
         "renewal_id": 2698,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36767,6 +37160,7 @@
       "properties": {
         "renewal_id": 2699,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36858,6 +37252,7 @@
       "properties": {
         "renewal_id": 2700,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36941,6 +37336,7 @@
       "properties": {
         "renewal_id": 2701,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -36992,6 +37388,7 @@
       "properties": {
         "renewal_id": 2702,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37043,6 +37440,7 @@
       "properties": {
         "renewal_id": 2703,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37198,6 +37596,7 @@
       "properties": {
         "renewal_id": 2704,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37257,6 +37656,7 @@
       "properties": {
         "renewal_id": 2705,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37340,6 +37740,7 @@
       "properties": {
         "renewal_id": 2706,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37415,6 +37816,7 @@
       "properties": {
         "renewal_id": 2707,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37522,6 +37924,7 @@
       "properties": {
         "renewal_id": 2708,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37589,6 +37992,7 @@
       "properties": {
         "renewal_id": 2709,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37656,6 +38060,7 @@
       "properties": {
         "renewal_id": 2710,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37715,6 +38120,7 @@
       "properties": {
         "renewal_id": 2711,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -37774,6 +38180,7 @@
       "properties": {
         "renewal_id": 2726,
         "road_name": "MALCOLM STREET HAMMERHEAD",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -37961,6 +38368,7 @@
       "properties": {
         "renewal_id": 2727,
         "road_name": "MALCOLM STREET HAMMERHEAD",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -38084,6 +38492,7 @@
       "properties": {
         "renewal_id": 2802,
         "road_name": "MEMORIAL DRIVE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -38135,6 +38544,7 @@
       "properties": {
         "renewal_id": 2803,
         "road_name": "MILL STREET (EASTBOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -38218,6 +38628,7 @@
       "properties": {
         "renewal_id": 2804,
         "road_name": "MILL STREET (EASTBOUND)",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -38301,6 +38712,7 @@
       "properties": {
         "renewal_id": 2810,
         "road_name": "MOANA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -38360,6 +38772,7 @@
       "properties": {
         "renewal_id": 2811,
         "road_name": "MOANA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -38419,6 +38832,7 @@
       "properties": {
         "renewal_id": 2824,
         "road_name": "MOORE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -38558,6 +38972,7 @@
       "properties": {
         "renewal_id": 2825,
         "road_name": "MOORE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -38649,6 +39064,7 @@
       "properties": {
         "renewal_id": 2826,
         "road_name": "MOORE STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -38724,6 +39140,7 @@
       "properties": {
         "renewal_id": 2836,
         "road_name": "MURRAY STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -38775,6 +39192,7 @@
       "properties": {
         "renewal_id": 2862,
         "road_name": "NORMA PLACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -38954,6 +39372,7 @@
       "properties": {
         "renewal_id": 2863,
         "road_name": "NORMA PLACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -39133,6 +39552,7 @@
       "properties": {
         "renewal_id": 2870,
         "road_name": "NORTHPARK DRIVE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -39184,6 +39604,7 @@
       "properties": {
         "renewal_id": 2880,
         "road_name": "OHAUPO ROAD (NORTH BOUND)",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -39307,6 +39728,7 @@
       "properties": {
         "renewal_id": 2900,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -39374,6 +39796,7 @@
       "properties": {
         "renewal_id": 2901,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -39505,6 +39928,7 @@
       "properties": {
         "renewal_id": 2902,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -39580,6 +40004,7 @@
       "properties": {
         "renewal_id": 2903,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -39671,6 +40096,7 @@
       "properties": {
         "renewal_id": 2904,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -39818,6 +40244,7 @@
       "properties": {
         "renewal_id": 2905,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -39869,6 +40296,7 @@
       "properties": {
         "renewal_id": 2915,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -39928,6 +40356,7 @@
       "properties": {
         "renewal_id": 2916,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -40027,6 +40456,7 @@
       "properties": {
         "renewal_id": 2917,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -40110,6 +40540,7 @@
       "properties": {
         "renewal_id": 2918,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -40265,6 +40696,7 @@
       "properties": {
         "renewal_id": 2919,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -40324,6 +40756,7 @@
       "properties": {
         "renewal_id": 2920,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -40415,6 +40848,7 @@
       "properties": {
         "renewal_id": 2921,
         "road_name": "PEACHGROVE ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -40466,6 +40900,7 @@
       "properties": {
         "renewal_id": 2937,
         "road_name": "PLUNKET TERRACE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -40581,6 +41016,7 @@
       "properties": {
         "renewal_id": 2947,
         "road_name": "POLLEN CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -40832,6 +41268,7 @@
       "properties": {
         "renewal_id": 2948,
         "road_name": "POLLEN CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -41075,6 +41512,7 @@
       "properties": {
         "renewal_id": 2965,
         "road_name": "PUKEKO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -41126,6 +41564,7 @@
       "properties": {
         "renewal_id": 2966,
         "road_name": "PUKEKO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -41193,6 +41632,7 @@
       "properties": {
         "renewal_id": 2985,
         "road_name": "RANUI STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -41364,6 +41804,7 @@
       "properties": {
         "renewal_id": 2986,
         "road_name": "RANUI STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -41463,6 +41904,7 @@
       "properties": {
         "renewal_id": 2987,
         "road_name": "RANUI STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -41634,6 +42076,7 @@
       "properties": {
         "renewal_id": 2988,
         "road_name": "RANUI STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -41821,6 +42264,7 @@
       "properties": {
         "renewal_id": 2989,
         "road_name": "RANUI STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -41992,6 +42436,7 @@
       "properties": {
         "renewal_id": 2990,
         "road_name": "RANUI STREET",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -42211,6 +42656,7 @@
       "properties": {
         "renewal_id": 2991,
         "road_name": "RANUI STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -42398,6 +42844,7 @@
       "properties": {
         "renewal_id": 3010,
         "road_name": "RICHAN STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -42449,6 +42896,7 @@
       "properties": {
         "renewal_id": 3011,
         "road_name": "RICHAN STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -42500,6 +42948,7 @@
       "properties": {
         "renewal_id": 3014,
         "road_name": "RIVER ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -42583,6 +43032,7 @@
       "properties": {
         "renewal_id": 3015,
         "road_name": "RIVER ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -42650,6 +43100,7 @@
       "properties": {
         "renewal_id": 3016,
         "road_name": "RIVER ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -42741,6 +43192,7 @@
       "properties": {
         "renewal_id": 3017,
         "road_name": "RIVER ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -42896,6 +43348,7 @@
       "properties": {
         "renewal_id": 3018,
         "road_name": "RIVER ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -42979,6 +43432,7 @@
       "properties": {
         "renewal_id": 3019,
         "road_name": "RIVER ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -43070,6 +43524,7 @@
       "properties": {
         "renewal_id": 3020,
         "road_name": "RIVER ROAD",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -43161,6 +43616,7 @@
       "properties": {
         "renewal_id": 3021,
         "road_name": "RIVER ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -43316,6 +43772,7 @@
       "properties": {
         "renewal_id": 3026,
         "road_name": "RUAKIWI ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -43399,6 +43856,7 @@
       "properties": {
         "renewal_id": 3027,
         "road_name": "RUAKIWI ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -43498,6 +43956,7 @@
       "properties": {
         "renewal_id": 3028,
         "road_name": "RUMNEY STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -43549,6 +44008,7 @@
       "properties": {
         "renewal_id": 3029,
         "road_name": "RUMNEY STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -43600,6 +44060,7 @@
       "properties": {
         "renewal_id": 3035,
         "road_name": "SANDWICH ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -43651,6 +44112,7 @@
       "properties": {
         "renewal_id": 3051,
         "road_name": "SEQUOIA PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -43822,6 +44284,7 @@
       "properties": {
         "renewal_id": 3052,
         "road_name": "SEQUOIA PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -43993,6 +44456,7 @@
       "properties": {
         "renewal_id": 3075,
         "road_name": "SOUTHSEA CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -44068,6 +44532,7 @@
       "properties": {
         "renewal_id": 3076,
         "road_name": "SOUTHSEA CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -44199,6 +44664,7 @@
       "properties": {
         "renewal_id": 3077,
         "road_name": "SOUTHSEA CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -44490,6 +44956,7 @@
       "properties": {
         "renewal_id": 3078,
         "road_name": "SOUTHSEA CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -44565,6 +45032,7 @@
       "properties": {
         "renewal_id": 3079,
         "road_name": "SOUTHSEA CRESCENT",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -44696,6 +45164,7 @@
       "properties": {
         "renewal_id": 3090,
         "road_name": "ST KILDA PLACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -44747,6 +45216,7 @@
       "properties": {
         "renewal_id": 3112,
         "road_name": "TAMAR PLACE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -44798,6 +45268,7 @@
       "properties": {
         "renewal_id": 3124,
         "road_name": "TE AROHA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -44873,6 +45344,7 @@
       "properties": {
         "renewal_id": 3125,
         "road_name": "TE AROHA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -44948,6 +45420,7 @@
       "properties": {
         "renewal_id": 3126,
         "road_name": "TE AROHA STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -44999,6 +45472,7 @@
       "properties": {
         "renewal_id": 3129,
         "road_name": "TE RAPA ROAD (SOUTH BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -45050,6 +45524,7 @@
       "properties": {
         "renewal_id": 3130,
         "road_name": "TE RAPA ROAD (SOUTH BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -45109,6 +45584,7 @@
       "properties": {
         "renewal_id": 3131,
         "road_name": "TE RAPA ROAD (SOUTH BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -45168,6 +45644,7 @@
       "properties": {
         "renewal_id": 3132,
         "road_name": "TE RAPA ROAD (SOUTH BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -45251,6 +45728,7 @@
       "properties": {
         "renewal_id": 3153,
         "road_name": "TRELOAR STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -45310,6 +45788,7 @@
       "properties": {
         "renewal_id": 3154,
         "road_name": "TRELOAR STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -45369,6 +45848,7 @@
       "properties": {
         "renewal_id": 3157,
         "road_name": "TUI AVENUE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -45524,6 +46004,7 @@
       "properties": {
         "renewal_id": 3186,
         "road_name": "WATERFORD ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -45631,6 +46112,7 @@
       "properties": {
         "renewal_id": 3187,
         "road_name": "WATERFORD ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -45722,6 +46204,7 @@
       "properties": {
         "renewal_id": 3188,
         "road_name": "WATERFORD ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -45877,6 +46360,7 @@
       "properties": {
         "renewal_id": 3189,
         "road_name": "WATERFORD ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -45960,6 +46444,7 @@
       "properties": {
         "renewal_id": 3190,
         "road_name": "WATERFORD ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46027,6 +46512,7 @@
       "properties": {
         "renewal_id": 3191,
         "road_name": "WATERFORD ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46126,6 +46612,7 @@
       "properties": {
         "renewal_id": 3192,
         "road_name": "WATERFORD ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46313,6 +46800,7 @@
       "properties": {
         "renewal_id": 3193,
         "road_name": "WATERFORD ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46372,6 +46860,7 @@
       "properties": {
         "renewal_id": 3194,
         "road_name": "WATERFORD ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46455,6 +46944,7 @@
       "properties": {
         "renewal_id": 3195,
         "road_name": "WATERFORD ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46618,6 +47108,7 @@
       "properties": {
         "renewal_id": 3202,
         "road_name": "WHATAWHATA ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46701,6 +47192,7 @@
       "properties": {
         "renewal_id": 3203,
         "road_name": "WHATAWHATA ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46760,6 +47252,7 @@
       "properties": {
         "renewal_id": 3204,
         "road_name": "WHATAWHATA ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -46843,6 +47336,7 @@
       "properties": {
         "renewal_id": 3205,
         "road_name": "WHATAWHATA ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -46934,6 +47428,7 @@
       "properties": {
         "renewal_id": 3218,
         "road_name": "WINDSOR ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -46985,6 +47480,7 @@
       "properties": {
         "renewal_id": 3219,
         "road_name": "WINDSOR ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47052,6 +47548,7 @@
       "properties": {
         "renewal_id": 3223,
         "road_name": "WINDSOR ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47111,6 +47608,7 @@
       "properties": {
         "renewal_id": 3234,
         "road_name": "WAIRERE DRIVE (WESTBOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -47234,6 +47732,7 @@
       "properties": {
         "renewal_id": 3242,
         "road_name": "RIVER ROAD",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47317,6 +47816,7 @@
       "properties": {
         "renewal_id": 3243,
         "road_name": "WINDSOR ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47368,6 +47868,7 @@
       "properties": {
         "renewal_id": 3244,
         "road_name": "WINDSOR ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47419,6 +47920,7 @@
       "properties": {
         "renewal_id": 3245,
         "road_name": "WINDSOR ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47478,6 +47980,7 @@
       "properties": {
         "renewal_id": 3254,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47809,6 +48312,7 @@
       "properties": {
         "renewal_id": 3255,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47868,6 +48372,7 @@
       "properties": {
         "renewal_id": 3256,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -47967,6 +48472,7 @@
       "properties": {
         "renewal_id": 3262,
         "road_name": "GREENSBORO STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -48210,6 +48716,7 @@
       "properties": {
         "renewal_id": 3268,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -48293,6 +48800,7 @@
       "properties": {
         "renewal_id": 3269,
         "road_name": "MAEROA ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -48376,6 +48884,7 @@
       "properties": {
         "renewal_id": 3270,
         "road_name": "TRELOAR STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -48435,6 +48944,7 @@
       "properties": {
         "renewal_id": 3271,
         "road_name": "TRELOAR STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -48494,6 +49004,7 @@
       "properties": {
         "renewal_id": 1851,
         "road_name": "ALFRED STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -48561,6 +49072,7 @@
       "properties": {
         "renewal_id": 1852,
         "road_name": "ALFRED STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -48780,6 +49292,7 @@
       "properties": {
         "renewal_id": 1879,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -48863,6 +49376,7 @@
       "properties": {
         "renewal_id": 1880,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -48922,6 +49436,7 @@
       "properties": {
         "renewal_id": 1881,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -48989,6 +49504,7 @@
       "properties": {
         "renewal_id": 1882,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -49176,6 +49692,7 @@
       "properties": {
         "renewal_id": 1883,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -49243,6 +49760,7 @@
       "properties": {
         "renewal_id": 1884,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -49326,6 +49844,7 @@
       "properties": {
         "renewal_id": 1885,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -49513,6 +50032,7 @@
       "properties": {
         "renewal_id": 1886,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -49628,6 +50148,7 @@
       "properties": {
         "renewal_id": 1887,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -49711,6 +50232,7 @@
       "properties": {
         "renewal_id": 1888,
         "road_name": "AWATERE AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -49946,6 +50468,7 @@
       "properties": {
         "renewal_id": 1925,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -49997,6 +50520,7 @@
       "properties": {
         "renewal_id": 1926,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50048,6 +50572,7 @@
       "properties": {
         "renewal_id": 1927,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50107,6 +50632,7 @@
       "properties": {
         "renewal_id": 1928,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50190,6 +50716,7 @@
       "properties": {
         "renewal_id": 1929,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50257,6 +50784,7 @@
       "properties": {
         "renewal_id": 1930,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50308,6 +50836,7 @@
       "properties": {
         "renewal_id": 1931,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50359,6 +50888,7 @@
       "properties": {
         "renewal_id": 1932,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50458,6 +50988,7 @@
       "properties": {
         "renewal_id": 1933,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50509,6 +51040,7 @@
       "properties": {
         "renewal_id": 1934,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50608,6 +51140,7 @@
       "properties": {
         "renewal_id": 1935,
         "road_name": "BEERESCOURT ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -50683,6 +51216,7 @@
       "properties": {
         "renewal_id": 1943,
         "road_name": "BETTINA ROAD",
+        "treatment": "Interlocking blocks",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -50734,6 +51268,7 @@
       "properties": {
         "renewal_id": 1944,
         "road_name": "BETTINA ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -50817,6 +51352,7 @@
       "properties": {
         "renewal_id": 1945,
         "road_name": "BETTINA ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -50868,6 +51404,7 @@
       "properties": {
         "renewal_id": 1946,
         "road_name": "BETTINA ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -50927,6 +51464,7 @@
       "properties": {
         "renewal_id": 1947,
         "road_name": "BETTINA ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -50986,6 +51524,7 @@
       "properties": {
         "renewal_id": 1954,
         "road_name": "BOND STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -51045,6 +51584,7 @@
       "properties": {
         "renewal_id": 1955,
         "road_name": "BOND STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -51112,6 +51652,7 @@
       "properties": {
         "renewal_id": 1976,
         "road_name": "CAMBRIDGE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -51179,6 +51720,7 @@
       "properties": {
         "renewal_id": 1977,
         "road_name": "CAMBRIDGE ROAD",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -51294,6 +51836,7 @@
       "properties": {
         "renewal_id": 1986,
         "road_name": "CARLSON CRESCENT",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -51473,6 +52016,7 @@
       "properties": {
         "renewal_id": 1991,
         "road_name": "CAROLYN PLACE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -51572,6 +52116,7 @@
       "properties": {
         "renewal_id": 1992,
         "road_name": "CAROLYN PLACE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -51671,6 +52216,7 @@
       "properties": {
         "renewal_id": 2043,
         "road_name": "CLAUDELANDS ROAD",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -51738,6 +52284,7 @@
       "properties": {
         "renewal_id": 2061,
         "road_name": "COBHAM DRIVE (SOUTH/EAST BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -51805,6 +52352,7 @@
       "properties": {
         "renewal_id": 2062,
         "road_name": "COBHAM DRIVE (SOUTH/EAST BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -51944,6 +52492,7 @@
       "properties": {
         "renewal_id": 2063,
         "road_name": "COBHAM DRIVE (SOUTH/EAST BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -52027,6 +52576,7 @@
       "properties": {
         "renewal_id": 2068,
         "road_name": "COLLINGWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -52094,6 +52644,7 @@
       "properties": {
         "renewal_id": 2069,
         "road_name": "COLLINGWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -52161,6 +52712,7 @@
       "properties": {
         "renewal_id": 2075,
         "road_name": "COLOMBO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -52212,6 +52764,7 @@
       "properties": {
         "renewal_id": 2076,
         "road_name": "COLOMBO STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -52271,6 +52824,7 @@
       "properties": {
         "renewal_id": 2078,
         "road_name": "COLSTONE STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -52322,6 +52876,7 @@
       "properties": {
         "renewal_id": 2079,
         "road_name": "COLSTONE STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -52373,6 +52928,7 @@
       "properties": {
         "renewal_id": 2136,
         "road_name": "CROSBY ROAD",
+        "treatment": "Interlocking Blocks",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -52440,6 +52996,7 @@
       "properties": {
         "renewal_id": 2177,
         "road_name": "DEANWELL AVENUE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -52603,6 +53160,7 @@
       "properties": {
         "renewal_id": 2178,
         "road_name": "DEANWELL AVENUE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -52662,6 +53220,7 @@
       "properties": {
         "renewal_id": 2179,
         "road_name": "DEANWELL AVENUE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -52825,6 +53384,7 @@
       "properties": {
         "renewal_id": 2180,
         "road_name": "DEANWELL AVENUE",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -52884,6 +53444,7 @@
       "properties": {
         "renewal_id": 2201,
         "road_name": "DOROTHY PLACE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -53063,6 +53624,7 @@
       "properties": {
         "renewal_id": 2202,
         "road_name": "DOROTHY PLACE",
+        "treatment": "Concrete",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -53130,6 +53692,7 @@
       "properties": {
         "renewal_id": 2230,
         "road_name": "EDGECUMBE STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -53213,6 +53776,7 @@
       "properties": {
         "renewal_id": 2233,
         "road_name": "ELENORA CLOSE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -53296,6 +53860,7 @@
       "properties": {
         "renewal_id": 2234,
         "road_name": "ELENORA CLOSE",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -53379,6 +53944,7 @@
       "properties": {
         "renewal_id": 2240,
         "road_name": "ELLIS STREET",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -53446,6 +54012,7 @@
       "properties": {
         "renewal_id": 2309,
         "road_name": "FORSYTH STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -53563,6 +54130,7 @@
       "properties": {
         "renewal_id": 2310,
         "road_name": "FORSYTH STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -53622,6 +54190,7 @@
       "properties": {
         "renewal_id": 2328,
         "road_name": "GALWAY AVENUE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -54025,6 +54594,7 @@
       "properties": {
         "renewal_id": 2329,
         "road_name": "GALWAY AVENUE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -54428,6 +54998,7 @@
       "properties": {
         "renewal_id": 2333,
         "road_name": "GAZELEY AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -54479,6 +55050,7 @@
       "properties": {
         "renewal_id": 2334,
         "road_name": "GAZELEY AVENUE",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -54530,6 +55102,7 @@
       "properties": {
         "renewal_id": 2376,
         "road_name": "GREENWOOD STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -54613,6 +55186,7 @@
       "properties": {
         "renewal_id": 2377,
         "road_name": "GREENWOOD STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -54688,6 +55262,7 @@
       "properties": {
         "renewal_id": 2392,
         "road_name": "HALL LANE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -54739,6 +55314,7 @@
       "properties": {
         "renewal_id": 2393,
         "road_name": "HALL LANE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -54790,6 +55366,7 @@
       "properties": {
         "renewal_id": 2394,
         "road_name": "HALL LANE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -54841,6 +55418,7 @@
       "properties": {
         "renewal_id": 2414,
         "road_name": "HARDLEY STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -54900,6 +55478,7 @@
       "properties": {
         "renewal_id": 2415,
         "road_name": "HARDLEY STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -54967,6 +55546,7 @@
       "properties": {
         "renewal_id": 2416,
         "road_name": "HARDLEY STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -55042,6 +55622,7 @@
       "properties": {
         "renewal_id": 2421,
         "road_name": "HARWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55093,6 +55674,7 @@
       "properties": {
         "renewal_id": 2422,
         "road_name": "HARWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55144,6 +55726,7 @@
       "properties": {
         "renewal_id": 2423,
         "road_name": "HARWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55203,6 +55786,7 @@
       "properties": {
         "renewal_id": 2424,
         "road_name": "HARWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55254,6 +55838,7 @@
       "properties": {
         "renewal_id": 2425,
         "road_name": "HARWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55305,6 +55890,7 @@
       "properties": {
         "renewal_id": 2426,
         "road_name": "HARWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55356,6 +55942,7 @@
       "properties": {
         "renewal_id": 2427,
         "road_name": "HARWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55407,6 +55994,7 @@
       "properties": {
         "renewal_id": 2428,
         "road_name": "HARWOOD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55458,6 +56046,7 @@
       "properties": {
         "renewal_id": 2456,
         "road_name": "HENDON ROAD",
+        "treatment": "Concrete",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55509,6 +56098,7 @@
       "properties": {
         "renewal_id": 2488,
         "road_name": "HILTON ROAD",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -55560,6 +56150,7 @@
       "properties": {
         "renewal_id": 2489,
         "road_name": "HILTON ROAD",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -55611,6 +56202,7 @@
       "properties": {
         "renewal_id": 2490,
         "road_name": "HILTON ROAD",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -55662,6 +56254,7 @@
       "properties": {
         "renewal_id": 2540,
         "road_name": "INGLETON TERRACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -55753,6 +56346,7 @@
       "properties": {
         "renewal_id": 2611,
         "road_name": "KIWI AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -55852,6 +56446,7 @@
       "properties": {
         "renewal_id": 2632,
         "road_name": "LAKE DOMAIN DRIVE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -56207,6 +56802,7 @@
       "properties": {
         "renewal_id": 2633,
         "road_name": "LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -56266,6 +56862,7 @@
       "properties": {
         "renewal_id": 2634,
         "road_name": "LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -56325,6 +56922,7 @@
       "properties": {
         "renewal_id": 2635,
         "road_name": "LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -56384,6 +56982,7 @@
       "properties": {
         "renewal_id": 2636,
         "road_name": "LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -56451,6 +57050,7 @@
       "properties": {
         "renewal_id": 2637,
         "road_name": "LAKE ROAD",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -56510,6 +57110,7 @@
       "properties": {
         "renewal_id": 2647,
         "road_name": "LILAC STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -56585,6 +57186,7 @@
       "properties": {
         "renewal_id": 2648,
         "road_name": "LILAC STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -56652,6 +57254,7 @@
       "properties": {
         "renewal_id": 2649,
         "road_name": "LILAC STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -56807,6 +57410,7 @@
       "properties": {
         "renewal_id": 2650,
         "road_name": "LILAC STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -56866,6 +57470,7 @@
       "properties": {
         "renewal_id": 2651,
         "road_name": "LILAC STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -56925,6 +57530,7 @@
       "properties": {
         "renewal_id": 2652,
         "road_name": "LILAC STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -57000,6 +57606,7 @@
       "properties": {
         "renewal_id": 2653,
         "road_name": "LILAC STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -57123,6 +57730,7 @@
       "properties": {
         "renewal_id": 2657,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57182,6 +57790,7 @@
       "properties": {
         "renewal_id": 2658,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57241,6 +57850,7 @@
       "properties": {
         "renewal_id": 2659,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57300,6 +57910,7 @@
       "properties": {
         "renewal_id": 2660,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "Interlocking blocks",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57351,6 +57962,7 @@
       "properties": {
         "renewal_id": 2661,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57402,6 +58014,7 @@
       "properties": {
         "renewal_id": 2662,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57469,6 +58082,7 @@
       "properties": {
         "renewal_id": 2663,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57552,6 +58166,7 @@
       "properties": {
         "renewal_id": 2664,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57611,6 +58226,7 @@
       "properties": {
         "renewal_id": 2665,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57662,6 +58278,7 @@
       "properties": {
         "renewal_id": 2666,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "Interlocking blocks",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57713,6 +58330,7 @@
       "properties": {
         "renewal_id": 2667,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57780,6 +58398,7 @@
       "properties": {
         "renewal_id": 2668,
         "road_name": "LIVERPOOL STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57863,6 +58482,7 @@
       "properties": {
         "renewal_id": 2758,
         "road_name": "MATAI STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57922,6 +58542,7 @@
       "properties": {
         "renewal_id": 2759,
         "road_name": "MATAI STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -57981,6 +58602,7 @@
       "properties": {
         "renewal_id": 2760,
         "road_name": "MATAI STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -58032,6 +58654,7 @@
       "properties": {
         "renewal_id": 2761,
         "road_name": "MATAI STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -58107,6 +58730,7 @@
       "properties": {
         "renewal_id": 2762,
         "road_name": "MATAI STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -58166,6 +58790,7 @@
       "properties": {
         "renewal_id": 2763,
         "road_name": "MATAI STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -58217,6 +58842,7 @@
       "properties": {
         "renewal_id": 2764,
         "road_name": "MATAI STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -58308,6 +58934,7 @@
       "properties": {
         "renewal_id": 2774,
         "road_name": "MAY STREET EXTENSION",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -58447,6 +59074,7 @@
       "properties": {
         "renewal_id": 2775,
         "road_name": "MAY STREET EXTENSION",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -58522,6 +59150,7 @@
       "properties": {
         "renewal_id": 2776,
         "road_name": "MAY STREET EXTENSION",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -58661,6 +59290,7 @@
       "properties": {
         "renewal_id": 2777,
         "road_name": "MAY STREET EXTENSION",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -58736,6 +59366,7 @@
       "properties": {
         "renewal_id": 2829,
         "road_name": "MOULE PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -58787,6 +59418,7 @@
       "properties": {
         "renewal_id": 2830,
         "road_name": "MOULE PLACE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -58846,6 +59478,7 @@
       "properties": {
         "renewal_id": 2837,
         "road_name": "MYRTLE STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -58945,6 +59578,7 @@
       "properties": {
         "renewal_id": 2838,
         "road_name": "MYRTLE STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -59044,6 +59678,7 @@
       "properties": {
         "renewal_id": 2840,
         "road_name": "NELSON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -59095,6 +59730,7 @@
       "properties": {
         "renewal_id": 2841,
         "road_name": "NELSON STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -59146,6 +59782,7 @@
       "properties": {
         "renewal_id": 2873,
         "road_name": "OAKLEY AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -59197,6 +59834,7 @@
       "properties": {
         "renewal_id": 2874,
         "road_name": "OAKLEY AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -59288,6 +59926,7 @@
       "properties": {
         "renewal_id": 2875,
         "road_name": "OAKLEY AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -59339,6 +59978,7 @@
       "properties": {
         "renewal_id": 2876,
         "road_name": "OAKLEY AVENUE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -59422,6 +60062,7 @@
       "properties": {
         "renewal_id": 2877,
         "road_name": "OHAUPO RD #214 ACCESSWAY",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -59473,6 +60114,7 @@
       "properties": {
         "renewal_id": 2925,
         "road_name": "PEMBROKE LANE",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -59540,6 +60182,7 @@
       "properties": {
         "renewal_id": 2954,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -59663,6 +60306,7 @@
       "properties": {
         "renewal_id": 2955,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -59754,6 +60398,7 @@
       "properties": {
         "renewal_id": 2956,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -59805,6 +60450,7 @@
       "properties": {
         "renewal_id": 2957,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -59888,6 +60534,7 @@
       "properties": {
         "renewal_id": 2958,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -59955,6 +60602,7 @@
       "properties": {
         "renewal_id": 2959,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -60030,6 +60678,7 @@
       "properties": {
         "renewal_id": 2960,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -60105,6 +60754,7 @@
       "properties": {
         "renewal_id": 2961,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -60204,6 +60854,7 @@
       "properties": {
         "renewal_id": 2962,
         "road_name": "PRISK STREET",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -60271,6 +60922,7 @@
       "properties": {
         "renewal_id": 2968,
         "road_name": "PURIRI STREET",
+        "treatment": "Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -60330,6 +60982,7 @@
       "properties": {
         "renewal_id": 2981,
         "road_name": "RADIATA STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -60381,6 +61034,7 @@
       "properties": {
         "renewal_id": 3022,
         "road_name": "RIVERVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -60536,6 +61190,7 @@
       "properties": {
         "renewal_id": 3023,
         "road_name": "RIVERVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -60675,6 +61330,7 @@
       "properties": {
         "renewal_id": 3024,
         "road_name": "RIVERVIEW TERRACE",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -60750,6 +61406,7 @@
       "properties": {
         "renewal_id": 3030,
         "road_name": "RUTLAND STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -60897,6 +61554,7 @@
       "properties": {
         "renewal_id": 3031,
         "road_name": "RUTLAND STREET",
+        "treatment": "AC",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -61044,6 +61702,7 @@
       "properties": {
         "renewal_id": 3123,
         "road_name": "TAYLOR TERRACE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -61175,6 +61834,7 @@
       "properties": {
         "renewal_id": 3127,
         "road_name": "TE RAPA ROAD (NORTH BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -61250,6 +61910,7 @@
       "properties": {
         "renewal_id": 3128,
         "road_name": "TE RAPA ROAD (NORTH BOUND)",
+        "treatment": "AC",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -61333,6 +61994,7 @@
       "properties": {
         "renewal_id": 3179,
         "road_name": "WARD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -61392,6 +62054,7 @@
       "properties": {
         "renewal_id": 3180,
         "road_name": "WARD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -61467,6 +62130,7 @@
       "properties": {
         "renewal_id": 3181,
         "road_name": "WARD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -61526,6 +62190,7 @@
       "properties": {
         "renewal_id": 3182,
         "road_name": "WARD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -61585,6 +62250,7 @@
       "properties": {
         "renewal_id": 3183,
         "road_name": "WARD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -61644,6 +62310,7 @@
       "properties": {
         "renewal_id": 3184,
         "road_name": "WARD STREET",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
@@ -61727,6 +62394,7 @@
       "properties": {
         "renewal_id": 3206,
         "road_name": "WHATAWHATA ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -61794,6 +62462,7 @@
       "properties": {
         "renewal_id": 3207,
         "road_name": "WHATAWHATA ROAD",
+        "treatment": "Concrete",
         "programme_year": "27/28"
       },
       "geometry": {
@@ -61877,6 +62546,7 @@
       "properties": {
         "renewal_id": 3208,
         "road_name": "WHYTE STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -61936,6 +62606,7 @@
       "properties": {
         "renewal_id": 3209,
         "road_name": "WHYTE STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -61995,6 +62666,7 @@
       "properties": {
         "renewal_id": 3210,
         "road_name": "WHYTE STREET",
+        "treatment": "AC",
         "programme_year": "28/29"
       },
       "geometry": {
@@ -62054,6 +62726,7 @@
       "properties": {
         "renewal_id": 3267,
         "road_name": "LAKE DOMAIN DRIVE",
+        "treatment": "AC",
         "programme_year": "26/27"
       },
       "geometry": {
