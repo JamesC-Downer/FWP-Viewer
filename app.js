@@ -22,6 +22,11 @@ map.on('load', () => {
         type: 'geojson',
         data: './data/footpaths.geojson'
     });
+    
+    map.addSource('swcs', {
+        type: 'geojson',
+        data: './data/swcs.geojson'
+    });
 
     const layers = map.getStyle().layers;
     
@@ -57,6 +62,24 @@ map.on('load', () => {
         id: 'footpaths-layer',
         type: 'fill',  // or 'line' depending on geometry
         source: 'footpaths',
+        paint: {
+            'fill-color': [
+                'match',
+                ['get', 'programme_year'],
+                '26/27', '#9DD197',
+                '27/28', '#53B465',
+                '28/29', '#0C7B36',
+                '29/30', '#063C1C',
+                '#cccccc'
+            ],
+            'fill-opacity': 0.6
+        }
+    });
+
+    map.addLayer({
+        id: 'swcs-layer',
+        type: 'fill',  // or 'line' depending on geometry
+        source: 'swcs',
         paint: {
             'fill-color': [
                 'match',
@@ -110,31 +133,6 @@ function setupUI() {
 
 }
 
-/*
-map.on('idle', () => {
-
-try {
-        const layers = map.getStyle().layers;
-
-        if (!layers || layers.length === 0) {
-            console.log("No layers found ❌");
-            return;
-        }
-
-        console.log("Layer count:", layers.length);
-
-        layers.forEach(layer => {
-            console.log(layer.id, "|", layer.type);
-        });
-
-    } catch (error) {
-        console.error("Error reading layers:", error);
-    }
-
-
-    
-});
-*/
 
 // Add nav controls
 map.addControl(new mapboxgl.NavigationControl());
@@ -146,7 +144,8 @@ map.on('click', (e) => {
 
     const features = map.queryRenderedFeatures(e.point, {
         layers: ['roads-layer',
-                'footpaths-layer']
+                'footpaths-layer',
+                'swcs-layer']
     });
 
     console.log(features); // ✅ DEBUG LINE
@@ -196,7 +195,8 @@ function updateYearFilter() {
 
     const layers = [
         'roads-layer',
-        'footpaths-layer'
+        'footpaths-layer',
+        'swcs-layer'
     ];
 
     layers.forEach(layer => {
