@@ -138646,6 +138646,142 @@
         "type": "Polygon"
       },
       "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "33ecd0c8-4070-4fc5-9e02-b099c530a0a9",
+        "AssetId": "78503",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "33ecd0c8-4070-4fc5-9e02-b099c530a0a9",
+        "AssetIds": "78503",
+        "AssetIdList": [
+          "78503"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5950464,
+        "road_name": "TUHIKARAMEA ROAD",
+        "treatment": "Asphalt",
+        "programme_year": "28/29"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.22600465923625,
+              -37.822401394577795
+            ],
+            [
+              175.22586837450996,
+              -37.82260297283364
+            ],
+            [
+              175.2258385151109,
+              -37.82264793998349
+            ],
+            [
+              175.22571994325529,
+              -37.822598398212065
+            ],
+            [
+              175.22575003571853,
+              -37.82255308018781
+            ],
+            [
+              175.2258865569913,
+              -37.822351152545785
+            ],
+            [
+              175.22600465923625,
+              -37.822401394577795
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "f9636034-06b4-40c5-9128-e67308cf31ce",
+        "AssetId": "78504",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "f9636034-06b4-40c5-9128-e67308cf31ce",
+        "AssetIds": "78504",
+        "AssetIdList": [
+          "78504"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5951210,
+        "road_name": "CRAWSHAW DRIVE",
+        "treatment": "Chipseal",
+        "programme_year": "28/29"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.23155858154323,
+              -37.77432749331201
+            ],
+            [
+              175.23146941797626,
+              -37.774369517713154
+            ],
+            [
+              175.23134936578262,
+              -37.77441294239638
+            ],
+            [
+              175.2312263654269,
+              -37.77444359694376
+            ],
+            [
+              175.23076545308777,
+              -37.77453177163026
+            ],
+            [
+              175.23073753085646,
+              -37.77443981063486
+            ],
+            [
+              175.23119451788526,
+              -37.774352386911
+            ],
+            [
+              175.23130664497677,
+              -37.77432444224326
+            ],
+            [
+              175.23141412510765,
+              -37.77428556507723
+            ],
+            [
+              175.23149773706928,
+              -37.77424615726338
+            ],
+            [
+              175.23155858154323,
+              -37.77432749331201
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
     }
   ]
 }
