@@ -31753,110 +31753,6 @@
     },
     {
       "identifier": {
-        "EntityId": "c546590e-8d82-4547-b96e-e733a6d08b1b",
-        "AssetId": "2333",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "c546590e-8d82-4547-b96e-e733a6d08b1b",
-        "AssetIds": "2333",
-        "AssetIdList": [
-          "2333"
-        ]
-      },
-      "properties": {
-        "renewal_id": 2333,
-        "road_name": "GAZELEY AVENUE",
-        "treatment": "Asphaltic Concrete",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.3229595538696,
-              -37.791041066321206
-            ],
-            [
-              175.3222976623673,
-              -37.79048108868642
-            ],
-            [
-              175.32231339336752,
-              -37.79046937881049
-            ],
-            [
-              175.32297528487487,
-              -37.79102935635736
-            ],
-            [
-              175.3229595538696,
-              -37.791041066321206
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
-        "EntityId": "a2cb51d3-b8fc-462d-ab63-11453e777755",
-        "AssetId": "2334",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "a2cb51d3-b8fc-462d-ab63-11453e777755",
-        "AssetIds": "2334",
-        "AssetIdList": [
-          "2334"
-        ]
-      },
-      "properties": {
-        "renewal_id": 2334,
-        "road_name": "GAZELEY AVENUE",
-        "treatment": "Asphaltic Concrete",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.32294190341628,
-              -37.790927375842436
-            ],
-            [
-              175.32244747837865,
-              -37.79050907957365
-            ],
-            [
-              175.3224632093599,
-              -37.79049736967833
-            ],
-            [
-              175.32295763440126,
-              -37.790915665881464
-            ],
-            [
-              175.32294190341628,
-              -37.790927375842436
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
         "EntityId": "ef79664d-7d2a-4337-9d8f-73df6d454cd8",
         "AssetId": "2344",
         "SecondaryId": null,
@@ -31951,66 +31847,6 @@
             [
               175.25490032942116,
               -37.802996913621605
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
-        "EntityId": "9b9a89de-c4af-46c2-b507-be1213d629d0",
-        "AssetId": "2414",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "9b9a89de-c4af-46c2-b507-be1213d629d0",
-        "AssetIds": "2414",
-        "AssetIdList": [
-          "2414"
-        ]
-      },
-      "properties": {
-        "renewal_id": 2414,
-        "road_name": "HARDLEY STREET",
-        "treatment": "AC",
-        "programme_year": "29/30"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.2769302029285,
-              -37.779079533390295
-            ],
-            [
-              175.2766643157782,
-              -37.77881096668071
-            ],
-            [
-              175.27626593283242,
-              -37.77850016617241
-            ],
-            [
-              175.27628423251096,
-              -37.778485389169745
-            ],
-            [
-              175.27668380860632,
-              -37.77879712045945
-            ],
-            [
-              175.27695072947307,
-              -37.77906673123731
-            ],
-            [
-              175.2769302029285,
-              -37.779079533390295
             ]
           ]
         ],
@@ -46765,158 +46601,6 @@
     },
     {
       "identifier": {
-        "EntityId": "3d4316b9-1b8e-4803-981d-c9b483f6d0e0",
-        "AssetId": "3206",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "3d4316b9-1b8e-4803-981d-c9b483f6d0e0",
-        "AssetIds": "3206",
-        "AssetIdList": [
-          "3206"
-        ]
-      },
-      "properties": {
-        "renewal_id": 3206,
-        "road_name": "WHATAWHATA ROAD",
-        "treatment": "Concrete",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.24593549553435,
-              -37.79515413364495
-            ],
-            [
-              175.24494381181617,
-              -37.79540293313794
-            ],
-            [
-              175.24385388182495,
-              -37.7956815422315
-            ],
-            [
-              175.24373906373856,
-              -37.79571260315812
-            ],
-            [
-              175.2437346677398,
-              -37.79570237076844
-            ],
-            [
-              175.24384959494643,
-              -37.79567128032323
-            ],
-            [
-              175.244939669745,
-              -37.795392634223134
-            ],
-            [
-              175.24593138859458,
-              -37.79514382592422
-            ],
-            [
-              175.24593549553435,
-              -37.79515413364495
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
-        "EntityId": "1a4e178b-d5b8-4aa6-8f38-f6adff0e4b1f",
-        "AssetId": "3207",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "1a4e178b-d5b8-4aa6-8f38-f6adff0e4b1f",
-        "AssetIds": "3207",
-        "AssetIdList": [
-          "3207"
-        ]
-      },
-      "properties": {
-        "renewal_id": 3207,
-        "road_name": "WHATAWHATA ROAD",
-        "treatment": "Concrete",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.24376287576425,
-              -37.795768028505464
-            ],
-            [
-              175.2434130852765,
-              -37.79586275305538
-            ],
-            [
-              175.24302089486062,
-              -37.795962410113624
-            ],
-            [
-              175.2426028479031,
-              -37.79606940398181
-            ],
-            [
-              175.24211506499572,
-              -37.7961933524176
-            ],
-            [
-              175.24206561045546,
-              -37.79620614150259
-            ],
-            [
-              175.24206138911416,
-              -37.79619586289249
-            ],
-            [
-              175.24211087690642,
-              -37.79618306520882
-            ],
-            [
-              175.2425986795268,
-              -37.79605911176792
-            ],
-            [
-              175.24301672651035,
-              -37.795952117896405
-            ],
-            [
-              175.2434088074602,
-              -37.79585248865733
-            ],
-            [
-              175.24375847563792,
-              -37.79575779723228
-            ],
-            [
-              175.24376287576425,
-              -37.795768028505464
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
         "EntityId": "7aa374bf-c01a-4f86-84e5-3fdaef482434",
         "AssetId": "3218",
         "SecondaryId": null,
@@ -48593,6 +48277,458 @@
             [
               175.27905346195257,
               -37.774946130158064
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "468db84d-cdd1-4ffc-9875-2f808cddbdaf",
+        "AssetId": "3275",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "468db84d-cdd1-4ffc-9875-2f808cddbdaf",
+        "AssetIds": "3275",
+        "AssetIdList": [
+          "3275"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3275,
+        "road_name": "CLYDE STREET",
+        "treatment": "AC",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.2997628691197,
+              -37.78989098864764
+            ],
+            [
+              175.29988177018004,
+              -37.789863824230096
+            ],
+            [
+              175.30012648552793,
+              -37.78980446102245
+            ],
+            [
+              175.30023684635532,
+              -37.7897820884906
+            ],
+            [
+              175.30034266058553,
+              -37.78976866130039
+            ],
+            [
+              175.30035072626254,
+              -37.789808691793226
+            ],
+            [
+              175.30024722246333,
+              -37.789821825806655
+            ],
+            [
+              175.30014028096127,
+              -37.78984350516916
+            ],
+            [
+              175.2998963035715,
+              -37.789902689367636
+            ],
+            [
+              175.2997770011904,
+              -37.78992994547535
+            ],
+            [
+              175.2997628691197,
+              -37.78989098864764
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "9d4d2b71-5a2d-432c-8ab4-272f764e26f1",
+        "AssetId": "3276",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "9d4d2b71-5a2d-432c-8ab4-272f764e26f1",
+        "AssetIds": "3276",
+        "AssetIdList": [
+          "3276"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3276,
+        "road_name": "CLYDE STREET",
+        "treatment": "AC",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.30036345273885,
+              -37.78977076737583
+            ],
+            [
+              175.30045872606388,
+              -37.78976337442643
+            ],
+            [
+              175.30057555175327,
+              -37.789762712260675
+            ],
+            [
+              175.30097645945708,
+              -37.78978179074044
+            ],
+            [
+              175.30097408130268,
+              -37.78981326453791
+            ],
+            [
+              175.30057450330654,
+              -37.78979424934445
+            ],
+            [
+              175.30046080542138,
+              -37.78979489378367
+            ],
+            [
+              175.30036731920052,
+              -37.78980214805924
+            ],
+            [
+              175.30036345273885,
+              -37.78977076737583
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "2d92f970-439b-447b-bfe0-6d32ac83721e",
+        "AssetId": "3277",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "2d92f970-439b-447b-bfe0-6d32ac83721e",
+        "AssetIds": "3277",
+        "AssetIdList": [
+          "3277"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3277,
+        "road_name": "CLYDE STREET",
+        "treatment": "AC",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.30229906424205,
+              -37.790007242198996
+            ],
+            [
+              175.30295680167276,
+              -37.79004314531797
+            ],
+            [
+              175.30362379243948,
+              -37.79007726312412
+            ],
+            [
+              175.30362218612686,
+              -37.790097041127126
+            ],
+            [
+              175.30295514158735,
+              -37.79006292057613
+            ],
+            [
+              175.3022973504038,
+              -37.79002701452899
+            ],
+            [
+              175.30229906424205,
+              -37.790007242198996
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "9e0564c7-a353-4c42-b647-f136d094e2da",
+        "AssetId": "3280",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "9e0564c7-a353-4c42-b647-f136d094e2da",
+        "AssetIds": "3280",
+        "AssetIdList": [
+          "3280"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3280,
+        "road_name": "KATHERINE PLACE",
+        "treatment": "AC",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.27112661642002,
+              -37.81938241327992
+            ],
+            [
+              175.27210836973293,
+              -37.81885715850573
+            ],
+            [
+              175.27223183847877,
+              -37.818794158750975
+            ],
+            [
+              175.27229713247831,
+              -37.81876190173364
+            ],
+            [
+              175.27235871489577,
+              -37.81873542102
+            ],
+            [
+              175.2724190364944,
+              -37.81871369884906
+            ],
+            [
+              175.27246595516408,
+              -37.818699716202254
+            ],
+            [
+              175.27251072658248,
+              -37.818689020493025
+            ],
+            [
+              175.27255499777607,
+              -37.818681483229874
+            ],
+            [
+              175.27266734067928,
+              -37.81867261773488
+            ],
+            [
+              175.2729262399139,
+              -37.81864876815827
+            ],
+            [
+              175.27292794286902,
+              -37.81866040133881
+            ],
+            [
+              175.27266892296007,
+              -37.818684262033045
+            ],
+            [
+              175.27255728464576,
+              -37.8186930719267
+            ],
+            [
+              175.2725144101553,
+              -37.818700371398435
+            ],
+            [
+              175.2724706849901,
+              -37.818710817162376
+            ],
+            [
+              175.27242468998986,
+              -37.81872452453882
+            ],
+            [
+              175.2723652920257,
+              -37.818745914104355
+            ],
+            [
+              175.2723045591479,
+              -37.81877202951353
+            ],
+            [
+              175.2722397343625,
+              -37.81880405472814
+            ],
+            [
+              175.27211649147668,
+              -37.81886693924228
+            ],
+            [
+              175.2711348713978,
+              -37.81939212276947
+            ],
+            [
+              175.27112661642002,
+              -37.81938241327992
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "2530179f-82b9-4a2c-9f58-2838795e3f9f",
+        "AssetId": "3281",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "2530179f-82b9-4a2c-9f58-2838795e3f9f",
+        "AssetIds": "3281",
+        "AssetIdList": [
+          "3281"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3281,
+        "road_name": "KATHERINE PLACE",
+        "treatment": "AC",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.2711901163059,
+              -37.81945710164399
+            ],
+            [
+              175.2721708447373,
+              -37.818932394926115
+            ],
+            [
+              175.2722925761021,
+              -37.81887028163607
+            ],
+            [
+              175.27235426076047,
+              -37.81883980771809
+            ],
+            [
+              175.27240930825235,
+              -37.81881613704212
+            ],
+            [
+              175.2724625249642,
+              -37.81879697337724
+            ],
+            [
+              175.27250233847963,
+              -37.81878510819674
+            ],
+            [
+              175.2725390617897,
+              -37.81877633514561
+            ],
+            [
+              175.27257258910237,
+              -37.81877062704931
+            ],
+            [
+              175.2726795120862,
+              -37.81876218925752
+            ],
+            [
+              175.27293933958495,
+              -37.818738254160785
+            ],
+            [
+              175.27294104254491,
+              -37.818749887340836
+            ],
+            [
+              175.27268109437153,
+              -37.81877383355523
+            ],
+            [
+              175.27257487597825,
+              -37.81878221574546
+            ],
+            [
+              175.27254274537185,
+              -37.818787686049696
+            ],
+            [
+              175.27250706831714,
+              -37.81879620915492
+            ],
+            [
+              175.27246817847288,
+              -37.81880779906436
+            ],
+            [
+              175.27241588539707,
+              -37.81882663012306
+            ],
+            [
+              175.27236168744605,
+              -37.81884993549375
+            ],
+            [
+              175.27230047200237,
+              -37.81888017760852
+            ],
+            [
+              175.27217896649782,
+              -37.81894217565771
+            ],
+            [
+              175.2711983713006,
+              -37.819466811128436
+            ],
+            [
+              175.2711901163059,
+              -37.81945710164399
             ]
           ]
         ],
@@ -54597,6 +54733,110 @@
     },
     {
       "identifier": {
+        "EntityId": "c546590e-8d82-4547-b96e-e733a6d08b1b",
+        "AssetId": "2333",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "c546590e-8d82-4547-b96e-e733a6d08b1b",
+        "AssetIds": "2333",
+        "AssetIdList": [
+          "2333"
+        ]
+      },
+      "properties": {
+        "renewal_id": 2333,
+        "road_name": "GAZELEY AVENUE",
+        "treatment": "Asphaltic Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.3229595538696,
+              -37.791041066321206
+            ],
+            [
+              175.3222976623673,
+              -37.79048108868642
+            ],
+            [
+              175.32231339336752,
+              -37.79046937881049
+            ],
+            [
+              175.32297528487487,
+              -37.79102935635736
+            ],
+            [
+              175.3229595538696,
+              -37.791041066321206
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "a2cb51d3-b8fc-462d-ab63-11453e777755",
+        "AssetId": "2334",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "a2cb51d3-b8fc-462d-ab63-11453e777755",
+        "AssetIds": "2334",
+        "AssetIdList": [
+          "2334"
+        ]
+      },
+      "properties": {
+        "renewal_id": 2334,
+        "road_name": "GAZELEY AVENUE",
+        "treatment": "Asphaltic Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.32294190341628,
+              -37.790927375842436
+            ],
+            [
+              175.32244747837865,
+              -37.79050907957365
+            ],
+            [
+              175.3224632093599,
+              -37.79049736967833
+            ],
+            [
+              175.32295763440126,
+              -37.790915665881464
+            ],
+            [
+              175.32294190341628,
+              -37.790927375842436
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
         "EntityId": "1540a04e-3826-4b48-89b1-0637fdb30879",
         "AssetId": "2376",
         "SecondaryId": null,
@@ -54903,6 +55143,66 @@
             [
               175.26496194057674,
               -37.78535482851483
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "9b9a89de-c4af-46c2-b507-be1213d629d0",
+        "AssetId": "2414",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "9b9a89de-c4af-46c2-b507-be1213d629d0",
+        "AssetIds": "2414",
+        "AssetIdList": [
+          "2414"
+        ]
+      },
+      "properties": {
+        "renewal_id": 2414,
+        "road_name": "HARDLEY STREET",
+        "treatment": "AC",
+        "programme_year": "29/30"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.2769302029285,
+              -37.779079533390295
+            ],
+            [
+              175.2766643157782,
+              -37.77881096668071
+            ],
+            [
+              175.27626593283242,
+              -37.77850016617241
+            ],
+            [
+              175.27628423251096,
+              -37.778485389169745
+            ],
+            [
+              175.27668380860632,
+              -37.77879712045945
+            ],
+            [
+              175.27695072947307,
+              -37.77906673123731
+            ],
+            [
+              175.2769302029285,
+              -37.779079533390295
             ]
           ]
         ],
@@ -61829,6 +62129,158 @@
     },
     {
       "identifier": {
+        "EntityId": "3d4316b9-1b8e-4803-981d-c9b483f6d0e0",
+        "AssetId": "3206",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "3d4316b9-1b8e-4803-981d-c9b483f6d0e0",
+        "AssetIds": "3206",
+        "AssetIdList": [
+          "3206"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3206,
+        "road_name": "WHATAWHATA ROAD",
+        "treatment": "Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.24593549553435,
+              -37.79515413364495
+            ],
+            [
+              175.24494381181617,
+              -37.79540293313794
+            ],
+            [
+              175.24385388182495,
+              -37.7956815422315
+            ],
+            [
+              175.24373906373856,
+              -37.79571260315812
+            ],
+            [
+              175.2437346677398,
+              -37.79570237076844
+            ],
+            [
+              175.24384959494643,
+              -37.79567128032323
+            ],
+            [
+              175.244939669745,
+              -37.795392634223134
+            ],
+            [
+              175.24593138859458,
+              -37.79514382592422
+            ],
+            [
+              175.24593549553435,
+              -37.79515413364495
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "1a4e178b-d5b8-4aa6-8f38-f6adff0e4b1f",
+        "AssetId": "3207",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "1a4e178b-d5b8-4aa6-8f38-f6adff0e4b1f",
+        "AssetIds": "3207",
+        "AssetIdList": [
+          "3207"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3207,
+        "road_name": "WHATAWHATA ROAD",
+        "treatment": "Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.24376287576425,
+              -37.795768028505464
+            ],
+            [
+              175.2434130852765,
+              -37.79586275305538
+            ],
+            [
+              175.24302089486062,
+              -37.795962410113624
+            ],
+            [
+              175.2426028479031,
+              -37.79606940398181
+            ],
+            [
+              175.24211506499572,
+              -37.7961933524176
+            ],
+            [
+              175.24206561045546,
+              -37.79620614150259
+            ],
+            [
+              175.24206138911416,
+              -37.79619586289249
+            ],
+            [
+              175.24211087690642,
+              -37.79618306520882
+            ],
+            [
+              175.2425986795268,
+              -37.79605911176792
+            ],
+            [
+              175.24301672651035,
+              -37.795952117896405
+            ],
+            [
+              175.2434088074602,
+              -37.79585248865733
+            ],
+            [
+              175.24375847563792,
+              -37.79575779723228
+            ],
+            [
+              175.24376287576425,
+              -37.795768028505464
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
         "EntityId": "0c5e3492-c5ba-4243-9952-22b9b3cac465",
         "AssetId": "3208",
         "SecondaryId": null,
@@ -62355,6 +62807,110 @@
             [
               175.26939860224047,
               -37.79643663734904
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "60205d86-cad2-4de3-ba2c-cb880b208b01",
+        "AssetId": "3278",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "60205d86-cad2-4de3-ba2c-cb880b208b01",
+        "AssetIds": "3278",
+        "AssetIdList": [
+          "3278"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3278,
+        "road_name": "BREMRIDGE PLACE",
+        "treatment": "AC",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.27057311304375,
+              -37.81868801039264
+            ],
+            [
+              175.2714575533081,
+              -37.818230133105686
+            ],
+            [
+              175.27146562180087,
+              -37.81823994067822
+            ],
+            [
+              175.27058118147545,
+              -37.81869781802727
+            ],
+            [
+              175.27057311304375,
+              -37.81868801039264
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "1e4a2a5f-db37-43ec-97b1-b22f81d969f2",
+        "AssetId": "3279",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "1e4a2a5f-db37-43ec-97b1-b22f81d969f2",
+        "AssetIds": "3279",
+        "AssetIdList": [
+          "3279"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3279,
+        "road_name": "BREMRIDGE PLACE",
+        "treatment": "AC",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.27063517795898,
+              -37.81876345371954
+            ],
+            [
+              175.27151961869305,
+              -37.81830557595493
+            ],
+            [
+              175.27152768720254,
+              -37.81831538352257
+            ],
+            [
+              175.27064324640745,
+              -37.81877326134927
+            ],
+            [
+              175.27063517795898,
+              -37.81876345371954
             ]
           ]
         ],
