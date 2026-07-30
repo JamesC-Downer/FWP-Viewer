@@ -100523,7 +100523,7 @@
         "renewal_id": 5951771,
         "road_name": "NORTH CITY ROAD",
         "treatment": "Rehabilitation",
-        "programme_year": "26/27"
+        "programme_year": "27/28"
       },
       "geometry": {
         "coordinates": [
@@ -100599,7 +100599,7 @@
         "renewal_id": 5951771,
         "road_name": "NORTH CITY ROAD",
         "treatment": "Chipseal",
-        "programme_year": "27/28"
+        "programme_year": "28/29"
       },
       "geometry": {
         "coordinates": [
@@ -138175,6 +138175,150 @@
             [
               175.30757300063746,
               -37.788373916168894
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "0ed397b0-76f6-410a-bf2a-8d2586a31e33",
+        "AssetId": "78516",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "0ed397b0-76f6-410a-bf2a-8d2586a31e33",
+        "AssetIds": "78516",
+        "AssetIdList": [
+          "78516"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5949762,
+        "road_name": "NORRIE STREET",
+        "treatment": "Asphalt",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.29632006627736,
+              -37.80891885931115
+            ],
+            [
+              175.29638959694157,
+              -37.80897509820807
+            ],
+            [
+              175.29646273622853,
+              -37.8090637088451
+            ],
+            [
+              175.29649795590242,
+              -37.80911697117468
+            ],
+            [
+              175.29641449898077,
+              -37.80915170806786
+            ],
+            [
+              175.29638139643458,
+              -37.80910164736732
+            ],
+            [
+              175.2963158291142,
+              -37.8090222103216
+            ],
+            [
+              175.29625278580315,
+              -37.80897121858913
+            ],
+            [
+              175.29632006627736,
+              -37.80891885931115
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "4716ff69-5a1e-4247-955c-74686005f492",
+        "AssetId": "78517",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "4716ff69-5a1e-4247-955c-74686005f492",
+        "AssetIds": "78517",
+        "AssetIdList": [
+          "78517"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5949762,
+        "road_name": "BADER STREET",
+        "treatment": "Asphalt",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.29603609028985,
+              -37.80882889269041
+            ],
+            [
+              175.29610893936203,
+              -37.80883496119158
+            ],
+            [
+              175.2961553719446,
+              -37.808842679255655
+            ],
+            [
+              175.29622174282122,
+              -37.80886060832269
+            ],
+            [
+              175.29631633061524,
+              -37.808901541209856
+            ],
+            [
+              175.2962565214549,
+              -37.808988536692624
+            ],
+            [
+              175.29617134111243,
+              -37.80895167487941
+            ],
+            [
+              175.29612231496043,
+              -37.808938431221534
+            ],
+            [
+              175.2960895618154,
+              -37.80893298696645
+            ],
+            [
+              175.29602304767985,
+              -37.80892744618164
+            ],
+            [
+              175.29603609028985,
+              -37.80882889269041
             ]
           ]
         ],
