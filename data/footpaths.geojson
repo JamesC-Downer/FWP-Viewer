@@ -24415,6 +24415,142 @@
     },
     {
       "identifier": {
+        "EntityId": "450f3131-89d7-46b1-8684-dfc6b683fce4",
+        "AssetId": "1845",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "450f3131-89d7-46b1-8684-dfc6b683fce4",
+        "AssetIds": "1845",
+        "AssetIdList": [
+          "1845"
+        ]
+      },
+      "properties": {
+        "renewal_id": 1845,
+        "road_name": "ALBERT STREET",
+        "treatment": "Asphaltic Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.30027116481529,
+              -37.796270844813094
+            ],
+            [
+              175.30154941064333,
+              -37.79597866343424
+            ],
+            [
+              175.30268970100298,
+              -37.79571388267938
+            ],
+            [
+              175.302744253857,
+              -37.79570126019284
+            ],
+            [
+              175.30275029194343,
+              -37.79571769232781
+            ],
+            [
+              175.30269574904906,
+              -37.79573031251048
+            ],
+            [
+              175.30155542497718,
+              -37.79599510110649
+            ],
+            [
+              175.30027713537913,
+              -37.7962872925052
+            ],
+            [
+              175.30027116481529,
+              -37.796270844813094
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "6fea5c25-afef-492e-b595-cd3c914f5e00",
+        "AssetId": "1846",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "6fea5c25-afef-492e-b595-cd3c914f5e00",
+        "AssetIds": "1846",
+        "AssetIdList": [
+          "1846"
+        ]
+      },
+      "properties": {
+        "renewal_id": 1846,
+        "road_name": "ALBERT STREET",
+        "treatment": "Asphaltic Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.30030918792815,
+              -37.796375590634355
+            ],
+            [
+              175.3015877125033,
+              -37.79608334544455
+            ],
+            [
+              175.30272821759357,
+              -37.79581851474549
+            ],
+            [
+              175.30278270698216,
+              -37.795805906939606
+            ],
+            [
+              175.30279065185712,
+              -37.79582752816605
+            ],
+            [
+              175.30273617557705,
+              -37.795840132939716
+            ],
+            [
+              175.3015956261243,
+              -37.79610497395703
+            ],
+            [
+              175.30031704395748,
+              -37.79639723233078
+            ],
+            [
+              175.30030918792815,
+              -37.796375590634355
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
         "EntityId": "7b665dc5-41c2-4f28-b1bf-e6557c9ce722",
         "AssetId": "1847",
         "SecondaryId": null,
@@ -39461,126 +39597,6 @@
     },
     {
       "identifier": {
-        "EntityId": "b524a9f1-0e67-4cb3-8dd4-90baaea04bed",
-        "AssetId": "2965",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "b524a9f1-0e67-4cb3-8dd4-90baaea04bed",
-        "AssetIds": "2965",
-        "AssetIdList": [
-          "2965"
-        ]
-      },
-      "properties": {
-        "renewal_id": 2965,
-        "road_name": "PUKEKO STREET",
-        "treatment": "AC",
-        "programme_year": "26/27"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.25130424907837,
-              -37.78713127580443
-            ],
-            [
-              175.25151434360507,
-              -37.78718121561851
-            ],
-            [
-              175.25150978376806,
-              -37.78719329772707
-            ],
-            [
-              175.25129968920936,
-              -37.78714335790595
-            ],
-            [
-              175.25130424907837,
-              -37.78713127580443
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
-        "EntityId": "33d845e7-b3b5-4f5e-b191-b372ea0b2a15",
-        "AssetId": "2966",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "33d845e7-b3b5-4f5e-b191-b372ea0b2a15",
-        "AssetIds": "2966",
-        "AssetIdList": [
-          "2966"
-        ]
-      },
-      "properties": {
-        "renewal_id": 2966,
-        "road_name": "PUKEKO STREET",
-        "treatment": "AC",
-        "programme_year": "26/27"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.25151385505117,
-              -37.787182510130144
-            ],
-            [
-              175.25153563921418,
-              -37.78718768823585
-            ],
-            [
-              175.2527378879389,
-              -37.787476251963795
-            ],
-            [
-              175.2531714570163,
-              -37.78757973842625
-            ],
-            [
-              175.253167860673,
-              -37.787589228265354
-            ],
-            [
-              175.25273428237895,
-              -37.78748573960389
-            ],
-            [
-              175.25153204041908,
-              -37.78719717750222
-            ],
-            [
-              175.2515102723221,
-              -37.78719200321545
-            ],
-            [
-              175.25151385505117,
-              -37.787182510130144
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
         "EntityId": "1df2f8ef-10dd-4bd8-9b78-75e5500f79d4",
         "AssetId": "2985",
         "SecondaryId": null,
@@ -48407,142 +48423,6 @@
             [
               175.27696257558623,
               -37.784667612238934
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
-        "EntityId": "450f3131-89d7-46b1-8684-dfc6b683fce4",
-        "AssetId": "1845",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "450f3131-89d7-46b1-8684-dfc6b683fce4",
-        "AssetIds": "1845",
-        "AssetIdList": [
-          "1845"
-        ]
-      },
-      "properties": {
-        "renewal_id": 1845,
-        "road_name": "ALBERT STREET",
-        "treatment": "Asphaltic Concrete",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.30027116481529,
-              -37.796270844813094
-            ],
-            [
-              175.30154941064333,
-              -37.79597866343424
-            ],
-            [
-              175.30268970100298,
-              -37.79571388267938
-            ],
-            [
-              175.302744253857,
-              -37.79570126019284
-            ],
-            [
-              175.30275029194343,
-              -37.79571769232781
-            ],
-            [
-              175.30269574904906,
-              -37.79573031251048
-            ],
-            [
-              175.30155542497718,
-              -37.79599510110649
-            ],
-            [
-              175.30027713537913,
-              -37.7962872925052
-            ],
-            [
-              175.30027116481529,
-              -37.796270844813094
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
-        "EntityId": "6fea5c25-afef-492e-b595-cd3c914f5e00",
-        "AssetId": "1846",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "6fea5c25-afef-492e-b595-cd3c914f5e00",
-        "AssetIds": "1846",
-        "AssetIdList": [
-          "1846"
-        ]
-      },
-      "properties": {
-        "renewal_id": 1846,
-        "road_name": "ALBERT STREET",
-        "treatment": "Asphaltic Concrete",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.30030918792815,
-              -37.796375590634355
-            ],
-            [
-              175.3015877125033,
-              -37.79608334544455
-            ],
-            [
-              175.30272821759357,
-              -37.79581851474549
-            ],
-            [
-              175.30278270698216,
-              -37.795805906939606
-            ],
-            [
-              175.30279065185712,
-              -37.79582752816605
-            ],
-            [
-              175.30273617557705,
-              -37.795840132939716
-            ],
-            [
-              175.3015956261243,
-              -37.79610497395703
-            ],
-            [
-              175.30031704395748,
-              -37.79639723233078
-            ],
-            [
-              175.30030918792815,
-              -37.796375590634355
             ]
           ]
         ],
@@ -63297,6 +63177,58 @@
             [
               175.3255801315756,
               -37.79641791619749
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "e6d82388-e195-447f-982d-aaba0ba8ae0a",
+        "AssetId": "3319",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "e6d82388-e195-447f-982d-aaba0ba8ae0a",
+        "AssetIds": "3319",
+        "AssetIdList": [
+          "3319"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3319,
+        "road_name": "KAREN CRESCENT",
+        "treatment": "Concrete",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.24808554661712,
+              -37.80249653327385
+            ],
+            [
+              175.2467102536341,
+              -37.80437772132114
+            ],
+            [
+              175.24669945000215,
+              -37.804372748931684
+            ],
+            [
+              175.24807474318015,
+              -37.80249156100338
+            ],
+            [
+              175.24808554661712,
+              -37.80249653327385
             ]
           ]
         ],

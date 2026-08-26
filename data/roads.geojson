@@ -120007,66 +120007,6 @@
     },
     {
       "identifier": {
-        "EntityId": "0c206902-ed16-49b6-b1df-fd83a09facf5",
-        "AssetId": "77766",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_junoexports",
-        "CoreIdentifier": null,
-        "Identifier": "0c206902-ed16-49b6-b1df-fd83a09facf5",
-        "AssetIds": "77766",
-        "AssetIdList": [
-          "77766"
-        ]
-      },
-      "properties": {
-        "renewal_id": 5948780,
-        "road_name": "DAWSON STREET",
-        "treatment": "Chipseal",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.2912543801741,
-              -37.787387902517835
-            ],
-            [
-              175.29214703577216,
-              -37.78718745763721
-            ],
-            [
-              175.29304081576265,
-              -37.78698472135702
-            ],
-            [
-              175.2930794983411,
-              -37.7870921280979
-            ],
-            [
-              175.29218553791583,
-              -37.78729490537145
-            ],
-            [
-              175.2912927017559,
-              -37.7874953908631
-            ],
-            [
-              175.2912543801741,
-              -37.787387902517835
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
         "EntityId": "c9d7006d-059f-4e05-807f-de4ba91b3881",
         "AssetId": "77773",
         "SecondaryId": null,
