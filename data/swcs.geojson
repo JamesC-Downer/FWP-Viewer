@@ -24625,146 +24625,6 @@
         "renewal_id": 1719,
         "road_name": "ROSSITER PLACE",
         "treatment": "K&C Concrete",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.27820914485213,
-              -37.75206223327043
-            ],
-            [
-              175.2781044554581,
-              -37.75176887068172
-            ],
-            [
-              175.27801569766564,
-              -37.75151592039922
-            ],
-            [
-              175.2779749144866,
-              -37.75145273524235
-            ],
-            [
-              175.2779195238951,
-              -37.75142188528301
-            ],
-            [
-              175.2778662561326,
-              -37.751405209135974
-            ],
-            [
-              175.27779716342303,
-              -37.75140052088851
-            ],
-            [
-              175.2777352836239,
-              -37.75141089161998
-            ],
-            [
-              175.2776785123158,
-              -37.75142258591366
-            ],
-            [
-              175.2771928867033,
-              -37.75153644935904
-            ],
-            [
-              175.2769171853817,
-              -37.75158855188656
-            ],
-            [
-              175.27651227298622,
-              -37.75160607844846
-            ],
-            [
-              175.2761168112693,
-              -37.75152247064762
-            ],
-            [
-              175.27611973066885,
-              -37.7515137651553
-            ],
-            [
-              175.2765134528409,
-              -37.751597005189105
-            ],
-            [
-              175.27691554992842,
-              -37.75157960048754
-            ],
-            [
-              175.27718996442954,
-              -37.751527741146134
-            ],
-            [
-              175.27767548022922,
-              -37.75141390345016
-            ],
-            [
-              175.27773268605137,
-              -37.751402119651424
-            ],
-            [
-              175.27779645983227,
-              -37.751391431498405
-            ],
-            [
-              175.27786887483572,
-              -37.751396345178556
-            ],
-            [
-              175.27792493764397,
-              -37.75141389635008
-            ],
-            [
-              175.27798373025433,
-              -37.751446641072334
-            ],
-            [
-              175.27802631902063,
-              -37.75151262360339
-            ],
-            [
-              175.27811537857778,
-              -37.75176643378153
-            ],
-            [
-              175.27822006121968,
-              -37.75205977732997
-            ],
-            [
-              175.27820914485213,
-              -37.75206223327043
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
-        "EntityId": "6c99fc7b-a0ba-4da9-a89c-8f9ecc2687df",
-        "AssetId": "1719",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_fwp_other_assets",
-        "CoreIdentifier": null,
-        "Identifier": "6c99fc7b-a0ba-4da9-a89c-8f9ecc2687df",
-        "AssetIds": "1719",
-        "AssetIdList": [
-          "1719"
-        ]
-      },
-      "properties": {
-        "renewal_id": 1719,
-        "road_name": "ROSSITER PLACE",
-        "treatment": "K&C Concrete",
         "programme_year": "29/30"
       },
       "geometry": {
@@ -31284,6 +31144,94 @@
         ],
         "shapeType": "Polygon",
         "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "e4ed2083-7323-43ed-9bbb-f3201fc150a8",
+        "AssetId": "3327",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "e4ed2083-7323-43ed-9bbb-f3201fc150a8",
+        "AssetIds": "3327",
+        "AssetIdList": [
+          "3327"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3327,
+        "road_name": "ALISON STREET",
+        "treatment": "K&C concrete",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            175.27153554774347,
+            -37.80573218549109
+          ],
+          [
+            175.27154895878854,
+            -37.80519178842751
+          ]
+        ],
+        "shapeType": "LineString",
+        "type": "LineString"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "c6aece4a-8917-456d-9f79-531f7bab9751",
+        "AssetId": "3328",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "c6aece4a-8917-456d-9f79-531f7bab9751",
+        "AssetIds": "3328",
+        "AssetIdList": [
+          "3328"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3328,
+        "road_name": "MANCHESTER PLACE",
+        "treatment": "K&C concrete",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            175.2396451923284,
+            -37.752437501137905
+          ],
+          [
+            175.23995435142675,
+            -37.7521541220206
+          ],
+          [
+            175.2399751385466,
+            -37.752131854321064
+          ],
+          [
+            175.23998989069617,
+            -37.75211011679843
+          ],
+          [
+            175.23999860787544,
+            -37.752083077432125
+          ]
+        ],
+        "shapeType": "LineString",
+        "type": "LineString"
       },
       "type": "Feature"
     }
