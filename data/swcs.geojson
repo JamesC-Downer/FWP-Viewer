@@ -31401,7 +31401,7 @@
         "renewal_id": 3332,
         "road_name": "PLUNKET TERRACE",
         "treatment": "K&C Concrete",
-        "programme_year": "26/27"
+        "programme_year": "27/28"
       },
       "geometry": {
         "coordinates": [
@@ -31448,6 +31448,204 @@
         ],
         "shapeType": "LineString",
         "type": "LineString"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "9656f0e9-d63e-48e5-afb4-fbe5a5f524a0",
+        "AssetId": "3333",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "9656f0e9-d63e-48e5-afb4-fbe5a5f524a0",
+        "AssetIds": "3333",
+        "AssetIdList": [
+          "3333"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3333,
+        "road_name": "PLUNKET TERRACE",
+        "treatment": "K&C Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            175.29032145903483,
+            -37.80030186508067
+          ],
+          [
+            175.29061228166248,
+            -37.800896457236576
+          ],
+          [
+            175.29077053551572,
+            -37.801217878985
+          ],
+          [
+            175.29077077921673,
+            -37.801218414927696
+          ],
+          [
+            175.2908455643854,
+            -37.80137826398405
+          ],
+          [
+            175.29093328079446,
+            -37.8015375910501
+          ],
+          [
+            175.29101552354214,
+            -37.80167413559594
+          ],
+          [
+            175.29110834522956,
+            -37.80181488981937
+          ],
+          [
+            175.29120493389772,
+            -37.801948902228794
+          ],
+          [
+            175.29127310779506,
+            -37.80203075082041
+          ]
+        ],
+        "shapeType": "LineString",
+        "type": "LineString"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "1191da9f-67ff-4e0c-aba2-b14fba7ed6da",
+        "AssetId": "3334",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "1191da9f-67ff-4e0c-aba2-b14fba7ed6da",
+        "AssetIds": "3334",
+        "AssetIdList": [
+          "3334"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3334,
+        "road_name": "PLUNKET TERRACE",
+        "treatment": "K&C Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.28967790610855,
+              -37.79895856662533
+            ],
+            [
+              175.28990799843112,
+              -37.799436179739615
+            ],
+            [
+              175.29028501348753,
+              -37.80021436379287
+            ],
+            [
+              175.29027441614866,
+              -37.80021759635978
+            ],
+            [
+              175.28989739735476,
+              -37.799439404366815
+            ],
+            [
+              175.28966730127956,
+              -37.798961783324025
+            ],
+            [
+              175.28967790610855,
+              -37.79895856662533
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "034438e1-dd35-44c2-b33b-4759c5b9aa02",
+        "AssetId": "3335",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "034438e1-dd35-44c2-b33b-4759c5b9aa02",
+        "AssetIds": "3335",
+        "AssetIdList": [
+          "3335"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3335,
+        "road_name": "PLUNKET TERRACE",
+        "treatment": "K&C Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.28957669680548,
+              -37.798939734992004
+            ],
+            [
+              175.28958813832938,
+              -37.79896397654818
+            ],
+            [
+              175.28982743023133,
+              -37.799460686892935
+            ],
+            [
+              175.29020863999554,
+              -37.80024753072783
+            ],
+            [
+              175.2901980426483,
+              -37.80025076328811
+            ],
+            [
+              175.28981682914764,
+              -37.79946391151311
+            ],
+            [
+              175.2895775197502,
+              -37.79896716470728
+            ],
+            [
+              175.28956606472804,
+              -37.798942894544595
+            ],
+            [
+              175.28957669680548,
+              -37.798939734992004
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
       },
       "type": "Feature"
     }
