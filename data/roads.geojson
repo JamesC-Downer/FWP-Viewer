@@ -10527,7 +10527,7 @@
         "renewal_id": 5948259,
         "road_name": "ALBERT STREET",
         "treatment": "Chipseal",
-        "programme_year": "26/27"
+        "programme_year": "25/26"
       },
       "geometry": {
         "coordinates": [
@@ -40595,6 +40595,98 @@
             [
               175.2844227075794,
               -37.782714875071385
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "8e0ce63b-7511-47ee-b9bd-c10ff7b7cb6f",
+        "AssetId": "113215",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "8e0ce63b-7511-47ee-b9bd-c10ff7b7cb6f",
+        "AssetIds": "113215",
+        "AssetIdList": [
+          "113215"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5949799,
+        "road_name": "OHAUPO ROAD",
+        "treatment": "Asphalt",
+        "programme_year": "25/26"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.27979320682326,
+              -37.80475265750341
+            ],
+            [
+              175.27975337422518,
+              -37.804830082677874
+            ],
+            [
+              175.27973749697176,
+              -37.80488518734934
+            ],
+            [
+              175.27972049600052,
+              -37.80496502039387
+            ],
+            [
+              175.27971490820008,
+              -37.80508377562002
+            ],
+            [
+              175.27972345504216,
+              -37.80520470657694
+            ],
+            [
+              175.2797393832008,
+              -37.8053170167711
+            ],
+            [
+              175.27959270340676,
+              -37.805330112301064
+            ],
+            [
+              175.27957631289988,
+              -37.80521454045576
+            ],
+            [
+              175.27956714877354,
+              -37.805084871775776
+            ],
+            [
+              175.2795733526328,
+              -37.804953029289194
+            ],
+            [
+              175.27959266084684,
+              -37.8048623627565
+            ],
+            [
+              175.27961216557702,
+              -37.80479466877361
+            ],
+            [
+              175.27965654910304,
+              -37.804708397994176
+            ],
+            [
+              175.27979320682326,
+              -37.80475265750341
             ]
           ]
         ],
@@ -106797,7 +106889,7 @@
         "renewal_id": 5952010,
         "road_name": "TRAMWAY ROAD",
         "treatment": "Chipseal",
-        "programme_year": "25/26"
+        "programme_year": "26/27"
       },
       "geometry": {
         "coordinates": [
@@ -115923,7 +116015,7 @@
         "renewal_id": 5951105,
         "road_name": "BRAMLEY DRIVE",
         "treatment": "Rejuvenation",
-        "programme_year": "26/27"
+        "programme_year": "25/26"
       },
       "geometry": {
         "coordinates": [
@@ -140745,7 +140837,7 @@
         "renewal_id": 5951010,
         "road_name": "YORK STREET",
         "treatment": "Chipseal",
-        "programme_year": "26/27"
+        "programme_year": "25/26"
       },
       "geometry": {
         "coordinates": [
