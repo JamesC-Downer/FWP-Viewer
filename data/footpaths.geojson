@@ -63924,6 +63924,62 @@
         "type": "Polygon"
       },
       "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "ae7c71e9-e3b8-4e57-bd4d-62b87f6b1fed",
+        "AssetId": "3337",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_fwp_other_assets",
+        "CoreIdentifier": null,
+        "Identifier": "ae7c71e9-e3b8-4e57-bd4d-62b87f6b1fed",
+        "AssetIds": "3337",
+        "AssetIdList": [
+          "3337"
+        ]
+      },
+      "properties": {
+        "renewal_id": 3337,
+        "road_name": "NISBET STREET",
+        "treatment": "Concrete",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.27935986264092,
+              -37.787944918912196
+            ],
+            [
+              175.27935919219604,
+              -37.78796293635257
+            ],
+            [
+              175.2794074979888,
+              -37.787937565963695
+            ],
+            [
+              175.27940921014957,
+              -37.78788603495746
+            ],
+            [
+              175.27936090437115,
+              -37.78790875567961
+            ],
+            [
+              175.27935986264092,
+              -37.787944918912196
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
     }
   ]
 }
