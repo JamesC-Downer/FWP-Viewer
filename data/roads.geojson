@@ -66811,174 +66811,6 @@
     },
     {
       "identifier": {
-        "EntityId": "2d4e3011-74c9-4dd8-a9f4-2e33d0e24889",
-        "AssetId": "113992",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_junoexports",
-        "CoreIdentifier": null,
-        "Identifier": "2d4e3011-74c9-4dd8-a9f4-2e33d0e24889",
-        "AssetIds": "113992",
-        "AssetIdList": [
-          "113992"
-        ]
-      },
-      "properties": {
-        "renewal_id": 5949652,
-        "road_name": "MEMORIAL DRIVE",
-        "treatment": "Rehabilitation",
-        "programme_year": "26/27"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.28790165486774,
-              -37.78607178528008
-            ],
-            [
-              175.28807606357904,
-              -37.78637178791416
-            ],
-            [
-              175.2882653689782,
-              -37.78670017482004
-            ],
-            [
-              175.28847425986373,
-              -37.78705926844302
-            ],
-            [
-              175.2887462334888,
-              -37.787521845755236
-            ],
-            [
-              175.2891366563755,
-              -37.78818597093069
-            ],
-            [
-              175.2890121824419,
-              -37.7882320580132
-            ],
-            [
-              175.28862176201451,
-              -37.78756793517308
-            ],
-            [
-              175.28834967256594,
-              -37.78710515957744
-            ],
-            [
-              175.28814056623403,
-              -37.78674569457875
-            ],
-            [
-              175.28795125474926,
-              -37.78641729618212
-            ],
-            [
-              175.2877769386555,
-              -37.786117452014246
-            ],
-            [
-              175.28790165486774,
-              -37.78607178528008
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
-        "EntityId": "2d4e3011-74c9-4dd8-a9f4-2e33d0e24889",
-        "AssetId": "113992",
-        "SecondaryId": null,
-        "AssetId3": null,
-        "AssetId4": null,
-        "AssetId5": null,
-        "TableName": "ud_junoexports",
-        "CoreIdentifier": null,
-        "Identifier": "2d4e3011-74c9-4dd8-a9f4-2e33d0e24889",
-        "AssetIds": "113992",
-        "AssetIdList": [
-          "113992"
-        ]
-      },
-      "properties": {
-        "renewal_id": 5949652,
-        "road_name": "MEMORIAL DRIVE",
-        "treatment": "Chipseal",
-        "programme_year": "27/28"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              175.28790165486774,
-              -37.78607178528008
-            ],
-            [
-              175.28807606357904,
-              -37.78637178791416
-            ],
-            [
-              175.2882653689782,
-              -37.78670017482004
-            ],
-            [
-              175.28847425986373,
-              -37.78705926844302
-            ],
-            [
-              175.2887462334888,
-              -37.787521845755236
-            ],
-            [
-              175.2891366563755,
-              -37.78818597093069
-            ],
-            [
-              175.2890121824419,
-              -37.7882320580132
-            ],
-            [
-              175.28862176201451,
-              -37.78756793517308
-            ],
-            [
-              175.28834967256594,
-              -37.78710515957744
-            ],
-            [
-              175.28814056623403,
-              -37.78674569457875
-            ],
-            [
-              175.28795125474926,
-              -37.78641729618212
-            ],
-            [
-              175.2877769386555,
-              -37.786117452014246
-            ],
-            [
-              175.28790165486774,
-              -37.78607178528008
-            ]
-          ]
-        ],
-        "shapeType": "Polygon",
-        "type": "Polygon"
-      },
-      "type": "Feature"
-    },
-    {
-      "identifier": {
         "EntityId": "7fe346f7-3f6b-42ec-a466-7c72f9c7fdfa",
         "AssetId": "113998",
         "SecondaryId": null,
@@ -158817,6 +158649,222 @@
             [
               175.29692098313296,
               -37.81234695425668
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "45768d33-dbfb-4c82-94e8-7d488f10ef4c",
+        "AssetId": "116830",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "45768d33-dbfb-4c82-94e8-7d488f10ef4c",
+        "AssetIds": "116830",
+        "AssetIdList": [
+          "116830"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5951422,
+        "road_name": "THOMAS ROAD",
+        "treatment": "Asphalt",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.27372623661583,
+              -37.7306736762482
+            ],
+            [
+              175.27356915974735,
+              -37.7306647986136
+            ],
+            [
+              175.27357922395856,
+              -37.73055247194483
+            ],
+            [
+              175.27373630058938,
+              -37.73056134957379
+            ],
+            [
+              175.27372623661583,
+              -37.7306736762482
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "4ce54ded-8bb0-41cf-9028-efc392043abe",
+        "AssetId": "116831",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "4ce54ded-8bb0-41cf-9028-efc392043abe",
+        "AssetIds": "116831",
+        "AssetIdList": [
+          "116831"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5951422,
+        "road_name": "THOMAS ROAD (WEST BOUND)",
+        "treatment": "Asphalt",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.27324410122492,
+              -37.73072961163803
+            ],
+            [
+              175.2731314762079,
+              -37.73069536370288
+            ],
+            [
+              175.27315459408447,
+              -37.73064740799218
+            ],
+            [
+              175.2732672190372,
+              -37.73068165590748
+            ],
+            [
+              175.27324410122492,
+              -37.73072961163803
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "d78f58e0-9432-4d00-b304-9177b2220f70",
+        "AssetId": "116832",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "d78f58e0-9432-4d00-b304-9177b2220f70",
+        "AssetIds": "116832",
+        "AssetIdList": [
+          "116832"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5951422,
+        "road_name": "THOMAS ROAD (EAST BOUND)",
+        "treatment": "Asphalt",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.2730381989291,
+              -37.73050175963579
+            ],
+            [
+              175.2731326318616,
+              -37.73049103878839
+            ],
+            [
+              175.27320108658463,
+              -37.730469721651644
+            ],
+            [
+              175.2732251012696,
+              -37.73051836750047
+            ],
+            [
+              175.27314951945525,
+              -37.730541904049524
+            ],
+            [
+              175.2730475081928,
+              -37.730553485260636
+            ],
+            [
+              175.2730381989291,
+              -37.73050175963579
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "0c40284c-061c-4ece-b91b-3f3b7da8764b",
+        "AssetId": "116833",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "0c40284c-061c-4ece-b91b-3f3b7da8764b",
+        "AssetIds": "116833",
+        "AssetIdList": [
+          "116833"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5951422,
+        "road_name": "HORSHAM DOWNS ROAD",
+        "treatment": "Asphalt",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.27345169445886,
+              -37.73105121456874
+            ],
+            [
+              175.2733681717781,
+              -37.73074613379939
+            ],
+            [
+              175.2734646016861,
+              -37.73072948080347
+            ],
+            [
+              175.27354812473715,
+              -37.73103456149302
+            ],
+            [
+              175.27345169445886,
+              -37.73105121456874
             ]
           ]
         ],
