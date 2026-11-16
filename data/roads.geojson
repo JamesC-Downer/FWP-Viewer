@@ -158944,6 +158944,294 @@
         "type": "Polygon"
       },
       "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "8d5ef82a-7ec2-4d71-8f6a-a93baf7487aa",
+        "AssetId": "116835",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "8d5ef82a-7ec2-4d71-8f6a-a93baf7487aa",
+        "AssetIds": "116835",
+        "AssetIdList": [
+          "116835"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5950365,
+        "road_name": "WILSON STREET",
+        "treatment": "Rehabilitation",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.30331269382967,
+              -37.78688428163423
+            ],
+            [
+              175.303829472882,
+              -37.78676580143986
+            ],
+            [
+              175.30386444282306,
+              -37.78686186910846
+            ],
+            [
+              175.30334766317287,
+              -37.78698034947461
+            ],
+            [
+              175.30331269382967,
+              -37.78688428163423
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "8d5ef82a-7ec2-4d71-8f6a-a93baf7487aa",
+        "AssetId": "116835",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "8d5ef82a-7ec2-4d71-8f6a-a93baf7487aa",
+        "AssetIds": "116835",
+        "AssetIdList": [
+          "116835"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5950365,
+        "road_name": "WILSON STREET",
+        "treatment": "Chipseal",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.30331269382967,
+              -37.78688428163423
+            ],
+            [
+              175.303829472882,
+              -37.78676580143986
+            ],
+            [
+              175.30386444282306,
+              -37.78686186910846
+            ],
+            [
+              175.30334766317287,
+              -37.78698034947461
+            ],
+            [
+              175.30331269382967,
+              -37.78688428163423
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "219fed69-7c04-469c-9f89-d1f21d3c65bb",
+        "AssetId": "116836",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "219fed69-7c04-469c-9f89-d1f21d3c65bb",
+        "AssetIds": "116836",
+        "AssetIdList": [
+          "116836"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5950365,
+        "road_name": "OLD FARM ROAD",
+        "treatment": "Rehabilitation",
+        "programme_year": "26/27"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.3036967562223,
+              -37.78705050563349
+            ],
+            [
+              175.30378479846803,
+              -37.78692423716541
+            ],
+            [
+              175.30378479830364,
+              -37.786924237401195
+            ],
+            [
+              175.3038129287785,
+              -37.786883892475835
+            ],
+            [
+              175.30389367294308,
+              -37.786773280636936
+            ],
+            [
+              175.3039359957496,
+              -37.786715915484805
+            ],
+            [
+              175.3039819005434,
+              -37.78664227972495
+            ],
+            [
+              175.30407143340105,
+              -37.78667743420824
+            ],
+            [
+              175.30402397178545,
+              -37.78675356740994
+            ],
+            [
+              175.3039799917409,
+              -37.786813178913526
+            ],
+            [
+              175.30389985586518,
+              -37.78692295763558
+            ],
+            [
+              175.30387220103333,
+              -37.78696262045876
+            ],
+            [
+              175.30387220086894,
+              -37.786962620694545
+            ],
+            [
+              175.30378415873324,
+              -37.787088889223874
+            ],
+            [
+              175.3036967562223,
+              -37.78705050563349
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
+    },
+    {
+      "identifier": {
+        "EntityId": "219fed69-7c04-469c-9f89-d1f21d3c65bb",
+        "AssetId": "116836",
+        "SecondaryId": null,
+        "AssetId3": null,
+        "AssetId4": null,
+        "AssetId5": null,
+        "TableName": "ud_junoexports",
+        "CoreIdentifier": null,
+        "Identifier": "219fed69-7c04-469c-9f89-d1f21d3c65bb",
+        "AssetIds": "116836",
+        "AssetIdList": [
+          "116836"
+        ]
+      },
+      "properties": {
+        "renewal_id": 5950365,
+        "road_name": "OLD FARM ROAD",
+        "treatment": "Chipseal",
+        "programme_year": "27/28"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              175.3036967562223,
+              -37.78705050563349
+            ],
+            [
+              175.30378479846803,
+              -37.78692423716541
+            ],
+            [
+              175.30378479830364,
+              -37.786924237401195
+            ],
+            [
+              175.3038129287785,
+              -37.786883892475835
+            ],
+            [
+              175.30389367294308,
+              -37.786773280636936
+            ],
+            [
+              175.3039359957496,
+              -37.786715915484805
+            ],
+            [
+              175.3039819005434,
+              -37.78664227972495
+            ],
+            [
+              175.30407143340105,
+              -37.78667743420824
+            ],
+            [
+              175.30402397178545,
+              -37.78675356740994
+            ],
+            [
+              175.3039799917409,
+              -37.786813178913526
+            ],
+            [
+              175.30389985586518,
+              -37.78692295763558
+            ],
+            [
+              175.30387220103333,
+              -37.78696262045876
+            ],
+            [
+              175.30387220086894,
+              -37.786962620694545
+            ],
+            [
+              175.30378415873324,
+              -37.787088889223874
+            ],
+            [
+              175.3036967562223,
+              -37.78705050563349
+            ]
+          ]
+        ],
+        "shapeType": "Polygon",
+        "type": "Polygon"
+      },
+      "type": "Feature"
     }
   ]
 }
